@@ -1,0 +1,28 @@
+{
+  "titulo": "Prazo de 30/10: CBS e IBS no Simples",
+  "data": "2026-10-26",
+  "status": "publicado manualmente",
+  "fontes": [
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11355",
+    "https://prefeitura.poa.br/smf/noticias/empresas-tem-ate-30-de-outubro-para-optar-pelo-regime-regular-de-ibs-e-cbs"
+  ],
+  "rodape": "Conteúdo educativo • Res. CGSN nº 194/2026",
+  "abertura": {"leao": true, "gancho": {"linha1": "EMPRESA DO SIMPLES?", "destaque": "PRAZO: 30/10", "linha2": "(nesta sexta-feira)"}},
+  "segmentos": [
+    {"fala": "Atenção, dono de empresa do Simples: você tem até sexta-feira, 30 de outubro, para tomar uma decisão que mexe no seu imposto de 2027.",
+     "cartela": [{"t": "Uma decisão que mexe no seu", "tam": 72, "gap": 30}, {"caixa": "IMPOSTO DE 2027", "tam": 96}]},
+    {"fala": "Com a reforma tributária, chegam dois tributos novos: a CBS e o IBS.",
+     "cartela": [{"t": "Reforma tributária:", "tam": 68, "cor": "cinza", "gap": 50}, {"t": "2 tributos novos", "peso": "black", "tam": 92, "gap": 60}, {"t": "CBS + IBS", "peso": "black", "tam": 170, "cor": "dourado", "gap": 0}]},
+    {"fala": "E quem é do Simples pode escolher: pagar tudo dentro do DAS, ou recolher esses dois por fora, no regime regular.",
+     "cartela": [{"t": "Quem é do Simples escolhe:", "tam": 66, "gap": 60}, {"caixa": "A) Tudo dentro do DAS", "cor": "verde", "tam": 70}, {"t": "ou", "tam": 60, "cor": "cinza", "gap": 50}, {"caixa": "B) CBS e IBS por fora (regime regular)", "tam": 70}]},
+    {"fala": "Se você não fizer nada, continua tudo no DAS. Para muita gente, isso basta.",
+     "cartela": [{"t": "Não fez nada?", "peso": "black", "tam": 100, "gap": 50}, {"t": "Continua tudo no DAS", "tam": 72, "cor": "verde", "gap": 70}, {"t": "Para muita gente, isso basta.", "peso": "semi", "tam": 56, "cor": "cinza", "gap": 0}]},
+    {"fala": "Mas se você vende para outras empresas, o regime regular pode gerar mais crédito para o seu cliente, e te deixar mais competitivo.",
+     "cartela": [{"t": "Vende para outras empresas?", "peso": "black", "tam": 84, "gap": 60}, {"caixa": "Regime regular pode gerar mais crédito pro seu cliente", "tam": 64}, {"t": "= mais competitividade", "tam": 62, "cor": "verde", "gap": 0}]},
+    {"fala": "E calma: se mudar de ideia, dá para cancelar entre 3 de novembro e 20 de dezembro.",
+     "cartela": [{"t": "Mudou de ideia?", "peso": "black", "tam": 96, "gap": 50}, {"t": "Dá para cancelar entre", "tam": 66, "cor": "cinza", "gap": 40}, {"caixa": "3/11 e 20/12", "cor": "verde", "tam": 120}]},
+    {"fala": "Fala com o seu contador antes de sexta. E segue o Mata o Leão, pra não ser engolido pela reforma.",
+     "cartela": [{"t": "Fale com seu contador", "peso": "black", "tam": 84, "gap": 20}, {"t": "ANTES DE SEXTA", "peso": "black", "tam": 110, "cor": "vermelho", "gap": 90}, {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "pra não ser engolido pela reforma", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "legenda": "⚠️ Tem empresa no Simples? O prazo é SEXTA (30/10)!"
+}

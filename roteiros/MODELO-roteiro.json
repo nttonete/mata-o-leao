@@ -1,0 +1,16 @@
+{
+  "titulo": "Título interno do vídeo",
+  "data": "AAAA-MM-DD",
+  "fontes": ["https://fonte-oficial-1", "https://fonte-2"],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal",
+  "abertura": {"leao": true, "gancho": {"linha1": "PERGUNTA CURTA?", "destaque": "DESTAQUE", "linha2": "(complemento)"}},
+  "segmentos": [
+    {"fala": "Frase narrada do segmento 1 (gancho).",
+     "cartela": [{"t": "Linha de apoio", "tam": 72, "gap": 30}, {"caixa": "DESTAQUE EM CAIXA", "cor": "dourado", "tam": 96}]},
+    {"fala": "Frase narrada do segmento 2.",
+     "cartela": [{"t": "Manchete", "peso": "black", "tam": 100, "gap": 50}, {"t": "Explicação curta", "tam": 66, "cor": "cinza", "gap": 0}]},
+    {"fala": "Último segmento: chamada para seguir o Mata o Leão.",
+     "cartela": [{"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "frase final", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "legenda": "Gancho 🦁\n\nLinhas úteis...\n\nPergunta/CTA 👇\n\n#impostos #mataoleao"
+}
