@@ -1,0 +1,204 @@
+{
+  "titulo": "Escola de filho autista pode ser abatida inteira no IR (Tema 324 TNU)",
+  "data": "2026-10-27",
+  "fontes": [
+    "https://www.garrastazu.adv.br/e-possivel-pedir-a-deducao-integral-de-despesas-educacionais-de-autista-no-imposto-de-renda",
+    "https://apet.org.br/?p=137602",
+    "https://www.migalhas.com.br/quentes/461796/pais-de-menina-autista-poderao-deduzir-gastos-com-escola-no-ir",
+    "https://tagdlaw.com.br/escola-regular-para-autista-pode-ser-abatida-do-irpf/",
+    "https://www.itatiaia.com.br/economia/deducao-com-despesas-de-educacao-no-imposto-de-renda-2026/"
+  ],
+  "rodape": "Conteúdo educativo • Tema 324 TNU • Lei 12.764/2012",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "PAI OU MÃE DE AUTISTA?",
+      "destaque": "ESCOLA NO IR",
+      "linha2": "pode ser abatida inteira"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Pai ou mãe de criança autista: a mensalidade da escola pode ser abatida inteira no Imposto de Renda, como despesa médica.",
+      "cartela": [
+        {
+          "t": "A mensalidade da escola pode entrar",
+          "tam": 68,
+          "gap": 30
+        },
+        {
+          "caixa": "INTEIRA NO IR",
+          "tam": 100
+        },
+        {
+          "t": "como despesa médica",
+          "tam": 64,
+          "cor": "verde",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Lançada como educação, o limite é de três mil quinhentos e sessenta e um reais por ano. O resto, você não abate.",
+      "cartela": [
+        {
+          "t": "Como educação, o limite é",
+          "tam": 68,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "t": "R$ 3.561,50",
+          "peso": "black",
+          "tam": 150,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "por ano",
+          "tam": 64,
+          "gap": 50
+        },
+        {
+          "t": "O resto fica de fora",
+          "tam": 60,
+          "cor": "vermelho",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Mas a Justiça Federal tem entendido que, para pessoa com deficiência, a escola entra como despesa médica, que não tem limite. E isso vale até para escola regular.",
+      "cartela": [
+        {
+          "t": "Justiça Federal • Tema 324 da TNU",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Escola = despesa médica",
+          "tam": 66
+        },
+        {
+          "t": "sem limite",
+          "peso": "black",
+          "tam": 100,
+          "cor": "verde",
+          "gap": 20
+        },
+        {
+          "t": "inclusive em escola regular",
+          "tam": 60,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E, por lei, a pessoa autista é considerada pessoa com deficiência, para todos os efeitos.",
+      "cartela": [
+        {
+          "t": "Lei 12.764/2012",
+          "tam": 64,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Pessoa autista é pessoa com deficiência",
+          "cor": "verde",
+          "tam": 76
+        },
+        {
+          "t": "para todos os efeitos legais",
+          "tam": 60,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Atenção: a Receita ainda não aceita isso direto na declaração. Se lançar por conta própria, pode cair na malha fina. O caminho é uma ação na Justiça Federal.",
+      "cartela": [
+        {
+          "t": "ATENÇÃO",
+          "peso": "black",
+          "tam": 110,
+          "cor": "vermelho",
+          "gap": 40
+        },
+        {
+          "t": "A Receita ainda não aceita direto na declaração",
+          "tam": 64,
+          "gap": 40
+        },
+        {
+          "t": "Lançar sozinho = risco de malha fina",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 50
+        },
+        {
+          "caixa": "Caminho: ação na Justiça Federal",
+          "tam": 66
+        }
+      ]
+    },
+    {
+      "fala": "Com laudo, comprovantes da escola e declaração completa, dá para pedir de volta o que foi pago a mais nos últimos cinco anos.",
+      "cartela": [
+        {
+          "t": "Laudo + recibos da escola + declaração completa",
+          "tam": 62,
+          "gap": 50
+        },
+        {
+          "caixa": "Pedir de volta os últimos 5 anos",
+          "cor": "verde",
+          "tam": 80
+        },
+        {
+          "t": "corrigido pela Selic",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Cada caso é um caso: fale com um advogado ou contador de confiança. E segue o Mata o Leão, pra não deixar dinheiro na mesa.",
+      "cartela": [
+        {
+          "t": "Cada caso é um caso:",
+          "tam": 62,
+          "cor": "cinza",
+          "gap": 20
+        },
+        {
+          "t": "fale com advogado ou contador",
+          "peso": "black",
+          "tam": 76,
+          "gap": 80
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "pra não deixar dinheiro na mesa",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "legenda": "Pai ou mãe de criança autista: a escola pode ser abatida INTEIRA no Imposto de Renda 🦁\n\nComo educação, o limite é R$ 3.561,50 por ano. Mas a Justiça Federal (Tema 324 da TNU) tem entendido que, para pessoa com deficiência, a mensalidade entra como despesa médica, que não tem limite, mesmo em escola regular. E a Lei 12.764/2012 diz que a pessoa autista é pessoa com deficiência para todos os efeitos legais.\n\n⚠️ A Receita ainda não aceita isso direto na declaração. O caminho é uma ação na Justiça Federal, que também pode pedir de volta o que foi pago a mais nos últimos 5 anos. Cada caso precisa de análise com laudo e comprovantes.\n\nManda pra uma família que precisa saber disso 👇\n\n#autismo #TEA #impostoderenda #direitosdoautista #pessoacomdeficiencia #inclusao #mataoleao"
+}

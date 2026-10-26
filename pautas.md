@@ -31,6 +31,12 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Malha fina: 5 erros mais comuns
 - [ ] Despesas que abatem (saúde x educação)
 
+## Direitos da pessoa com deficiência
+- [x] Escola de filho autista abatida inteira no IR como despesa médica (Tema 324 TNU) — 27/10
+- [ ] Terapias do autista (fono, TO, psicólogo) como despesa médica no IR
+- [ ] Isenção de IPI/IOF/ICMS/IPVA na compra de carro por pessoa com deficiência
+- [ ] Dependente com deficiência maior de 21 anos no IR
+
 ## Mitos e dúvidas
 - [ ] PIX e Receita: mito x verdade
 - [ ] Criptomoedas: precisa declarar?

@@ -9,6 +9,9 @@ aqui dados pessoais, senhas, tokens ou qualquer coisa do dono da conta.
 
 ## Rotina diária (o que a tarefa agendada faz)
 
+0. **Já tem post para hoje?** Se `historico.md` já tiver uma linha com a data de hoje (vídeo feito
+   antes, por pedido do dono), não crie outro: só confirme com `getScheduledPosts` que ele está
+   agendado e termine com um resumo curto.
 1. **Escolher o tema.** Leia `pautas.md` e `historico.md`. Antes, faça uma busca rápida por novidades
    de impostos do dia (prazos da Receita, Comitê Gestor do Simples, reforma tributária, IR). Se houver
    prazo ou mudança relevante para o público, ela tem prioridade; senão, pegue a próxima pauta livre.
@@ -41,7 +44,10 @@ aqui dados pessoais, senhas, tokens ou qualquer coisa do dono da conta.
    - `blogId`: `7665544` (marca MataOLeão, TikTok @mataoleao — confira com `getBrandSettings`
      que `tiktokData` é `mataoleao`; se não for, NÃO publique e avise).
    - data: hoje às 19:00 (America/Sao_Paulo). Se já passou das 18:30, agende para amanhã 19:00.
-   - `providers: [{"network":"tiktok"}]`, `autoPublish: true`, `text`: a legenda,
+   - `providers: [{"network":"tiktok"}]` — e, se `getBrandSettings` mostrar `instagramData` nessa
+     marca, inclua também `{"network":"instagram"}` com
+     `instagramData: {"type":"REEL","showReelOnFeed":true,"isAiGenerated":true}`.
+   - `autoPublish: true`, `text`: a legenda,
      `media: [<link público>]`, `videoCoverMilliseconds: 2000`,
      `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"","autoAddMusic":false,
      "disableComment":false,"disableDuet":false,"disableStitch":false,
