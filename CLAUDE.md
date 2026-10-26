@@ -30,7 +30,9 @@ aqui dados pessoais, senhas, tokens ou qualquer coisa do dono da conta.
      ("fale com seu contador" quando a decisão depende do caso). Neutro em política: explique a
      regra, não opine sobre governo, partido ou candidato.
 4. **Narração (Runway, `generate_speech`)** – uma chamada por segmento, na ordem:
-   `model: eleven_v3`, `voice: James`, `languageCode: por`, `stability: 0.5`, `seed: 7`.
+   `model: eleven_v3`, `voice: James`, `languageCode: por`, `stability: 0.5`, `seed: 11`, e comece
+   **todo** `text` com a tag `[Brazilian Portuguese accent] ` (sem ela a voz às vezes puxa sotaque
+   de Portugal). Escreva as falas no jeito brasileiro de falar ("você", "pra", "entrar com").
    Busque cada resultado com `get_task` e baixe para `roteiros/<pasta>/audio/01.mp3`, `02.mp3`, …
    Custa ~16 créditos por vídeo. Se a resposta indicar menos de 20 créditos restantes, avise o dono
    (ver "Avisos"). Se faltar crédito para terminar, não publique nada parcial.
