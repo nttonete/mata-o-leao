@@ -49,7 +49,7 @@ aqui dados pessoais, senhas, tokens ou qualquer coisa do dono da conta.
      `instagramData: {"type":"REEL","showReelOnFeed":true,"isAiGenerated":true}`.
    - `autoPublish: true`, `text`: a legenda,
      `media: [<link público>]`, `videoCoverMilliseconds: 2000`,
-     `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"","autoAddMusic":false,
+     `tiktokData: {"privacyOption":"PUBLIC_TO_EVERYONE","isAigc":true,"title":"<título curto do vídeo, obrigatório>","autoAddMusic":false,
      "disableComment":false,"disableDuet":false,"disableStitch":false,
      "commercialContentThirdParty":false,"commercialContentOwnBrand":false,"photoCoverIndex":0}`.
 8. **Registrar:** acrescente uma linha em `historico.md` (data, tema, pasta, link do planner do
