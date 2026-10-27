@@ -249,6 +249,20 @@ def main(pasta):
     open(alista, "w").write("".join(f"file '{w}'\n" for w in wavs))
     narr = os.path.join(tmp, "narracao.wav")
     sh("ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", alista, "-c", "pcm_s16le", narr)
+    # música de fundo (opcional): assets/musica/<arquivo>, baixa e abaixando mais quando há voz
+    musica = rot.get("musica")
+    if musica:
+        trilha = os.path.join(RAIZ, "assets", "musica", musica)
+        total = duracao(narr)
+        com_musica = os.path.join(tmp, "narracao_musica.wav")
+        sh("ffmpeg", "-y", "-v", "error", "-i", narr, "-stream_loop", "-1", "-i", trilha, "-filter_complex",
+           f"[1:a]aresample=48000,atrim=0:{total:.3f},volume={rot.get('volume_musica', 0.5)},"
+           f"afade=in:st=0:d=1.5,afade=out:st={max(total - 2.5, 0):.3f}:d=2.5[m];"
+           "[0:a]asplit=2[v][sc];"
+           "[m][sc]sidechaincompress=threshold=0.05:ratio=3:attack=30:release=400[md];"
+           "[v][md]amix=inputs=2:duration=first:normalize=0[a]",
+           "-map", "[a]", "-c:a", "pcm_s16le", com_musica)
+        narr = com_musica
     mix = os.path.join(tmp, "mix.wav")
     if usar_leao:
         sh("ffmpeg", "-y", "-v", "error", "-i", narr, "-i", LEAO, "-filter_complex",

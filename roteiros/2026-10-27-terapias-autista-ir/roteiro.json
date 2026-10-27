@@ -1,0 +1,176 @@
+{
+  "titulo": "Terapias do autista abatem sem limite no IR",
+  "data": "2026-10-27",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "fontes": [
+    "https://www.infomoney.com.br/?p=3268264",
+    "https://www.correio24horas.com.br/economia/como-declarar-terapia-no-imposto-de-renda-2026-e-garantir-deducao-sem-limite-0326",
+    "https://www.coad.com.br/home/noticias-detalhe/129492/recibo-eletronico-de-servicos-de-saude-sera-obrigatorio-a-partir-de-2025",
+    "https://www.garrastazu.adv.br/e-possivel-pedir-a-deducao-integral-de-despesas-educacionais-de-autista-no-imposto-de-renda"
+  ],
+  "rodape": "Conteúdo educativo • Lei 9.250/1995",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "PAI OU MÃE DE AUTISTA?",
+      "destaque": "TERAPIAS NO IR",
+      "linha2": "abatem sem limite"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Pai ou mãe de autista: fono, psicólogo e terapia ocupacional entram inteiros no Imposto de Renda. E aqui a Receita aceita direto.",
+      "cartela": [
+        {
+          "t": "Fono, psicólogo e terapia ocupacional",
+          "tam": 64,
+          "gap": 30
+        },
+        {
+          "caixa": "INTEIROS NO IR",
+          "tam": 100
+        },
+        {
+          "t": "a Receita aceita direto",
+          "tam": 62,
+          "cor": "verde",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Esses gastos são despesa médica, e despesa médica não tem limite de valor. Vale pra você e pros seus dependentes.",
+      "cartela": [
+        {
+          "t": "É despesa médica:",
+          "tam": 68,
+          "cor": "cinza",
+          "gap": 30
+        },
+        {
+          "t": "SEM LIMITE",
+          "peso": "black",
+          "tam": 150,
+          "cor": "dourado",
+          "gap": 30
+        },
+        {
+          "t": "pra você e seus dependentes",
+          "tam": 62,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Entram psicólogo, fonoaudiólogo, terapeuta ocupacional, fisioterapeuta, médico e também o plano de saúde.",
+      "cartela": [
+        {
+          "t": "Entram:",
+          "peso": "black",
+          "tam": 84,
+          "gap": 40
+        },
+        {
+          "caixa": "Psicólogo • Fonoaudiólogo",
+          "cor": "verde",
+          "tam": 64
+        },
+        {
+          "caixa": "Terapeuta ocupacional",
+          "cor": "verde",
+          "tam": 64
+        },
+        {
+          "caixa": "Fisioterapeuta • Médico",
+          "cor": "verde",
+          "tam": 64
+        },
+        {
+          "caixa": "Plano de saúde",
+          "cor": "verde",
+          "tam": 64
+        }
+      ]
+    },
+    {
+      "fala": "Diferente da escola, aqui não precisa de ação na Justiça. É só lançar na declaração completa.",
+      "cartela": [
+        {
+          "t": "Diferente da escola:",
+          "tam": 66,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Não precisa de ação na Justiça",
+          "tam": 80
+        },
+        {
+          "t": "basta lançar na declaração completa",
+          "tam": 60,
+          "cor": "verde",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Guarde os comprovantes. Profissional autônomo emite o recibo pelo aplicativo Receita Saúde, e clínica emite nota fiscal. O que o plano reembolsou não entra.",
+      "cartela": [
+        {
+          "t": "Guarde os comprovantes",
+          "peso": "black",
+          "tam": 80,
+          "gap": 40
+        },
+        {
+          "t": "Autônomo: recibo pelo app Receita Saúde",
+          "tam": 58,
+          "gap": 20
+        },
+        {
+          "t": "Clínica: nota fiscal",
+          "tam": 58,
+          "gap": 50
+        },
+        {
+          "caixa": "Reembolso do plano não entra",
+          "cor": "vermelho",
+          "tam": 66
+        }
+      ]
+    },
+    {
+      "fala": "Manda pra uma família que precisa saber disso. E segue o Mata o Leão, pra não deixar dinheiro na mesa.",
+      "cartela": [
+        {
+          "t": "Mande pra uma família que precisa saber",
+          "tam": 64,
+          "gap": 80
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "pra não deixar dinheiro na mesa",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Terapias do autista sem limite no IR",
+  "legenda": "Pai ou mãe de autista: as terapias entram INTEIRAS no Imposto de Renda 🦁\n\nPsicólogo, fonoaudiólogo, terapeuta ocupacional, fisioterapeuta, médico e plano de saúde são despesas médicas, e despesa médica não tem limite de valor. Vale para você e para os dependentes da declaração.\n\n✅ Diferente da escola, aqui não precisa de ação na Justiça: é só lançar na declaração completa\n📄 Guarde os comprovantes: autônomo emite recibo pelo app Receita Saúde; clínica emite nota fiscal\n⚠️ O valor reembolsado pelo plano não entra\n\nManda pra uma família que precisa saber disso 👇\n\nConteúdo educativo • Lei 9.250/1995\n\n#autismo #TEA #impostoderenda #direitosdoautista #terapia #fonoaudiologia #mataoleao",
+  "volume_musica": 0.28
+}

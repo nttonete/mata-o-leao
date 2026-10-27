@@ -26,6 +26,11 @@ aqui dados pessoais, senhas, tokens ou qualquer coisa do dono da conta.
    - Cada segmento tem uma cartela com pouco texto (manchete + 1 ou 2 linhas).
    - `rodape`: "Conteúdo educativo • Fonte: <órgão/norma>".
    - `legenda`: gancho + 2–4 linhas úteis + pergunta/CTA + 4–8 hashtags (#impostos #mataoleao …).
+   - `titulo_tiktok`: título curto (obrigatório no Metricool para TikTok).
+   - **Música de fundo (sempre):** alterne entre as duas trilhas de `assets/musica/` (não gaste
+     crédito gerando música nova): `"musica": "trilha-1-lofi.mp3", "volume_musica": 0.28` ou
+     `"musica": "trilha-2-pop.mp3", "volume_musica": 0.5`. Use a que não foi usada no vídeo anterior
+     (veja o roteiro mais recente). O montar.py já abaixa a música quando a voz entra.
    - Tom: simples, direto, sem juridiquês, sem prometer economia, sem orientação personalizada
      ("fale com seu contador" quando a decisão depende do caso). Neutro em política: explique a
      regra, não opine sobre governo, partido ou candidato.

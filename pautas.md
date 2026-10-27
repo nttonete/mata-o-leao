@@ -21,7 +21,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Simples x regime regular de IBS/CBS: quem vende para empresa x quem vende para consumidor
 
 ## Imposto de Renda
-- [ ] Isenção até R$ 5 mil: quem ganha e como aparece no contracheque
+- [x] Isenção até R$ 5 mil: quem ganha e como aparece no contracheque — 27/10
 - [ ] Faixa de transição até R$ 7.350
 - [ ] Imposto mínimo para renda acima de R$ 600 mil/ano
 - [ ] Dividendos: o que mudou na tributação
@@ -33,7 +33,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 
 ## Direitos da pessoa com deficiência
 - [x] Escola de filho autista abatida inteira no IR como despesa médica (Tema 324 TNU) — 26/10
-- [ ] Terapias do autista (fono, TO, psicólogo) como despesa médica no IR
+- [x] Terapias do autista (fono, TO, psicólogo) como despesa médica no IR — 27/10
 - [ ] Isenção de IPI/IOF/ICMS/IPVA na compra de carro por pessoa com deficiência
 - [ ] Dependente com deficiência maior de 21 anos no IR
 

@@ -1,0 +1,181 @@
+{
+  "titulo": "Isenção do IR para quem ganha até R$ 5 mil (Lei 15.270/2025)",
+  "data": "2026-10-27",
+  "horario": "13:00",
+  "musica": "trilha-2-pop.mp3",
+  "fontes": [
+    "https://www.santander.com.br/blog/isencao-do-ir-ate-5-mil",
+    "https://www.infomoney.com.br/?p=3148497",
+    "https://meutudo.com.br/blog/noticias/2026/02/03/isencao-do-ir-ate-r-5-mil-ja-aparece-no-contracheque-quem-tem-direito/"
+  ],
+  "rodape": "Conteúdo educativo • Lei 15.270/2025",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "GANHA ATÉ R$ 5 MIL?",
+      "destaque": "IR ZERO",
+      "linha2": "desde janeiro de 2026"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você que ganha até cinco mil reais por mês: desde janeiro, o Imposto de Renda não é mais descontado do seu salário.",
+      "cartela": [
+        {
+          "t": "Desde janeiro de 2026",
+          "tam": 66,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Até R$ 5 mil por mês = IR ZERO",
+          "tam": 84
+        },
+        {
+          "t": "direto no contracheque",
+          "tam": 62,
+          "cor": "verde",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É a Lei quinze mil duzentos e setenta, de 2025. Pra quem ganha até cinco mil, a redução chega a trezentos e doze reais e oitenta e nove centavos por mês.",
+      "cartela": [
+        {
+          "t": "Lei 15.270/2025",
+          "tam": 64,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "t": "Redução de até",
+          "tam": 70,
+          "gap": 10
+        },
+        {
+          "t": "R$ 312,89",
+          "peso": "black",
+          "tam": 160,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "por mês",
+          "tam": 64,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Ganha entre cinco mil e sete mil trezentos e cinquenta? Você não fica isento, mas paga menos. O desconto vai diminuindo até zerar.",
+      "cartela": [
+        {
+          "t": "Ganha entre",
+          "tam": 66,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "R$ 5 mil e R$ 7.350?",
+          "peso": "black",
+          "tam": 84,
+          "gap": 50
+        },
+        {
+          "caixa": "Paga menos imposto",
+          "cor": "verde",
+          "tam": 84
+        },
+        {
+          "t": "o desconto diminui até zerar em R$ 7.350",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Atenção: a conta é feita mês a mês, em cada fonte de renda. Quem tem duas rendas pode ter imposto a pagar na declaração.",
+      "cartela": [
+        {
+          "t": "ATENÇÃO",
+          "peso": "black",
+          "tam": 110,
+          "cor": "vermelho",
+          "gap": 40
+        },
+        {
+          "t": "Tem duas fontes de renda?",
+          "tam": 68,
+          "gap": 50
+        },
+        {
+          "caixa": "Pode ter imposto a pagar na declaração",
+          "tam": 70
+        }
+      ]
+    },
+    {
+      "fala": "E ficar isento não quer dizer que você está livre de declarar. Os outros critérios da Receita continuam valendo na declaração de 2027.",
+      "cartela": [
+        {
+          "t": "Isento não é o mesmo que",
+          "tam": 66,
+          "gap": 10
+        },
+        {
+          "t": "livre de declarar",
+          "peso": "black",
+          "tam": 96,
+          "cor": "dourado",
+          "gap": 50
+        },
+        {
+          "t": "Os outros critérios da Receita continuam valendo",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Declaração de 2027",
+          "cor": "verde",
+          "tam": 80
+        }
+      ]
+    },
+    {
+      "fala": "Confere o seu contracheque e manda pra quem precisa saber. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Confira seu contracheque",
+          "peso": "black",
+          "tam": 80,
+          "gap": 80
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "pra não ser engolido pelo imposto",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "IR zero para quem ganha até R$ 5 mil",
+  "legenda": "Ganha até R$ 5 mil por mês? Desde janeiro de 2026 o Imposto de Renda não é mais descontado do seu salário 🦁\n\n✅ Até R$ 5.000/mês: imposto zero (redução de até R$ 312,89 por mês)\n✅ De R$ 5.000,01 a R$ 7.350: paga menos, e o desconto vai diminuindo até zerar\n⚠️ A conta é feita mês a mês, por fonte. Quem tem duas rendas pode ter imposto a pagar na declaração\n⚠️ Ficar isento não dispensa de declarar se você se enquadra nos outros critérios da Receita\n\nConfira seu contracheque e marque quem precisa saber disso 👇\n\nConteúdo educativo • Lei 15.270/2025\n\n#impostoderenda #isencaoIR #salario #contracheque #financaspessoais #impostos #mataoleao",
+  "volume_musica": 0.5
+}
