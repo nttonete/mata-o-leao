@@ -11,7 +11,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Simples: nova chance de optar pelo regime regular de IBS/CBS (março, valendo a partir de julho) — fevereiro/março
 
 ## Reforma tributária
-- [ ] CBS e IBS em 1 minuto: quais impostos somem
+- [x] CBS e IBS em 1 minuto: quais impostos somem — 28/10
 - [ ] Split payment: o imposto separado na hora do pagamento
 - [ ] O que muda na nota fiscal em 2027
 - [ ] MEI na reforma tributária: o que muda e o que não muda
