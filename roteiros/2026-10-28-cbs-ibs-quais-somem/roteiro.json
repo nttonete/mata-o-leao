@@ -1,0 +1,33 @@
+{
+  "titulo": "CBS e IBS em 1 minuto: quais impostos somem",
+  "data": "2026-10-28",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2025/janeiro/sancionado-o-primeiro-projeto-de-regulamentacao-do-novo-sistema-de-tributacao-do-consumo",
+    "https://www.camara.leg.br/noticias/1237089-reforma-tributaria-comeca-fase-de-transicao-com-testes-de-novos-impostos-em-2026/",
+    "https://agenciasebrae.com.br/wp-content/uploads/2026/01/FAQ_Reforma_Tributaria.pdf",
+    "https://www.pwc.com.br/pt/thinking-about-taxes/tax-intelligence/2025/tax-intelligence-raciocinios-ed-03-rt-ipi-zfm.pdf"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: EC 132/2023 e LC 214/2025",
+  "abertura": {"leao": true, "gancho": {"linha1": "REFORMA TRIBUTÁRIA:", "destaque": "5 IMPOSTOS SOMEM", "linha2": "e entram só 2"}},
+  "segmentos": [
+    {"fala": "Você sabe quais impostos vão sumir com a reforma tributária? São cinco. E no lugar deles entram só dois.",
+     "cartela": [{"t": "Com a reforma tributária", "tam": 66, "cor": "cinza", "gap": 30}, {"caixa": "5 IMPOSTOS SOMEM", "cor": "vermelho", "tam": 96}, {"t": "e entram só 2 no lugar", "tam": 64, "cor": "verde", "gap": 0}]},
+    {"fala": "O primeiro novo é a CBS, que é federal. Ela entra no lugar do PIS, da Cofins e, na prática, do IPI.",
+     "cartela": [{"t": "CBS", "peso": "black", "tam": 150, "cor": "dourado", "gap": 20}, {"t": "federal", "tam": 60, "cor": "cinza", "gap": 40}, {"caixa": "PIS • Cofins • IPI", "cor": "vermelho", "tam": 70}, {"t": "saem", "tam": 60, "gap": 0}]},
+    {"fala": "O segundo é o IBS, dos estados e municípios. Ele substitui o ICMS e o ISS.",
+     "cartela": [{"t": "IBS", "peso": "black", "tam": 150, "cor": "dourado", "gap": 20}, {"t": "estados e municípios", "tam": 60, "cor": "cinza", "gap": 40}, {"caixa": "ICMS • ISS", "cor": "vermelho", "tam": 76}, {"t": "saem", "tam": 60, "gap": 0}]},
+    {"fala": "O IPI não some de vez: a partir de 2027 ele fica zerado, mas continua pra produtos que concorrem com os da Zona Franca de Manaus.",
+     "cartela": [{"t": "E o IPI?", "peso": "black", "tam": 96, "gap": 40}, {"caixa": "ZERADO EM 2027", "cor": "verde", "tam": 80}, {"t": "exceto produtos que concorrem com a Zona Franca de Manaus", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Agora o calendário. 2026 é ano de teste, sem cobrança de verdade. Em 2027 começa a CBS, e o PIS e a Cofins saem de cena.",
+     "cartela": [{"t": "Calendário", "peso": "black", "tam": 90, "gap": 40}, {"caixa": "2026: só teste", "cor": "cinza", "tam": 70}, {"caixa": "2027: CBS no lugar de PIS e Cofins", "cor": "dourado", "tam": 60}]},
+    {"fala": "A partir de 2029, o ICMS e o ISS vão diminuindo aos poucos, até sumir de vez em 2033.",
+     "cartela": [{"caixa": "2029 a 2032: ICMS e ISS diminuem", "cor": "dourado", "tam": 60}, {"caixa": "2033: ICMS e ISS acabam", "cor": "vermelho", "tam": 70}, {"t": "fica só CBS + IBS", "tam": 62, "cor": "verde", "gap": 0}]},
+    {"fala": "Salva esse vídeo pra não esquecer. E segue o Mata o Leão, pra entender imposto sem complicação.",
+     "cartela": [{"t": "Salve pra não esquecer", "tam": 64, "gap": 80}, {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "titulo_tiktok": "CBS e IBS: quais impostos somem",
+  "legenda": "Reforma tributária em 1 minuto: 5 impostos somem e entram só 2 🦁\n\n🏛️ CBS (federal) substitui PIS, Cofins e, na prática, o IPI\n🏙️ IBS (estados e municípios) substitui ICMS e ISS\n📦 IPI zerado a partir de 2027, exceto para produtos que concorrem com a Zona Franca de Manaus\n📅 2026 é teste; em 2027 começa a CBS; de 2029 a 2032 ICMS e ISS diminuem; em 2033 acabam\n\nSua empresa já está se preparando? Conta aqui 👇\n\nConteúdo educativo • EC 132/2023 e LC 214/2025\n\n#impostos #reformatributaria #CBS #IBS #empreendedor #pequenasempresas #mataoleao"
+}
