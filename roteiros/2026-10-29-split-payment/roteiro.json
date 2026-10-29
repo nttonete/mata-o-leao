@@ -1,0 +1,198 @@
+{
+  "titulo": "Split payment: o imposto separado na hora do pagamento",
+  "data": "2026-10-29",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/comunicado-5",
+    "https://comsefaz.org.br/novo/split-payment-entra-em-fase-de-testes-a-partir-de-15-de-outubro-saiba-o-que-muda/",
+    "https://www.contabeis.com.br/noticias/80411/split-payment-comeca-a-ser-implementado-em-2027-veja-o-cronograma/",
+    "https://www.reformatributaria.com/tecnologia/split-payment-so-sera-obrigatorio-em-2028-diz-receita-federal"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal, CGIBS e LC 214/2025",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "SPLIT PAYMENT:",
+      "destaque": "IMPOSTO SEPARADO",
+      "linha2": "na hora do pagamento"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Já ouviu falar em split payment? É o imposto separado na hora do pagamento. E isso mexe no caixa das empresas.",
+      "cartela": [
+        {
+          "t": "Já ouviu falar em",
+          "tam": 66,
+          "cor": "cinza",
+          "gap": 30
+        },
+        {
+          "caixa": "SPLIT PAYMENT?",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "o imposto separado na hora do pagamento",
+          "tam": 58,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Funciona assim: quando uma empresa paga outra, a parte do IBS e da CBS já vai direto pro governo. O fornecedor recebe o valor líquido.",
+      "cartela": [
+        {
+          "t": "Como funciona",
+          "peso": "black",
+          "tam": 90,
+          "gap": 40
+        },
+        {
+          "caixa": "IBS + CBS → governo",
+          "cor": "vermelho",
+          "tam": 70
+        },
+        {
+          "caixa": "o resto → fornecedor",
+          "cor": "verde",
+          "tam": 70
+        }
+      ]
+    },
+    {
+      "fala": "Hoje, a empresa recebe o valor cheio e só depois paga o imposto. Com o split, essa parte nem entra no caixa.",
+      "cartela": [
+        {
+          "t": "Hoje",
+          "peso": "black",
+          "tam": 80,
+          "gap": 10
+        },
+        {
+          "t": "recebe tudo, paga o imposto depois",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "t": "Com o split",
+          "peso": "black",
+          "tam": 80,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "o imposto já sai na hora",
+          "tam": 58,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E já começou? Só em teste. Desde 15 de outubro, Receita, Comitê Gestor e bancos fazem testes técnicos, sem operação real.",
+      "cartela": [
+        {
+          "t": "Já começou?",
+          "peso": "black",
+          "tam": 96,
+          "gap": 40
+        },
+        {
+          "caixa": "SÓ TESTE",
+          "cor": "cinza",
+          "tam": 90
+        },
+        {
+          "t": "desde 15/10/2026, sem operação real",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Em 2027, a previsão é liberar aos poucos, no segundo semestre, de forma opcional, e só entre empresas.",
+      "cartela": [
+        {
+          "t": "2027",
+          "peso": "black",
+          "tam": 150,
+          "cor": "dourado",
+          "gap": 20
+        },
+        {
+          "t": "2º semestre, aos poucos",
+          "tam": 60,
+          "gap": 30
+        },
+        {
+          "caixa": "OPCIONAL",
+          "cor": "verde",
+          "tam": 80
+        },
+        {
+          "t": "só entre empresas",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Pra quem compra como pessoa física, nada muda por enquanto. E a data em que vira obrigatório ainda não foi definida.",
+      "cartela": [
+        {
+          "t": "Consumidor",
+          "peso": "black",
+          "tam": 90,
+          "gap": 10
+        },
+        {
+          "t": "nada muda por enquanto",
+          "tam": 60,
+          "cor": "verde",
+          "gap": 40
+        },
+        {
+          "caixa": "Obrigatório: sem data definida",
+          "cor": "cinza",
+          "tam": 60
+        }
+      ]
+    },
+    {
+      "fala": "Se você vende pra outras empresas, conversa com seu contador. E segue o Mata o Leão, pra entender imposto sem complicação.",
+      "cartela": [
+        {
+          "t": "Vende pra empresas? Fale com seu contador",
+          "tam": 54,
+          "gap": 70
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Split payment: o imposto separado na hora",
+  "legenda": "Split payment: o imposto separado na hora do pagamento 🦁\n\n💸 Quando uma empresa paga outra, a parte do IBS e da CBS vai direto pro governo e o fornecedor recebe o valor líquido\n🧪 Desde 15/10/2026 há só testes técnicos, sem operação real\n📅 Em 2027 a previsão é liberar aos poucos, no 2º semestre, de forma opcional e só entre empresas\n🛒 Pra pessoa física, nada muda nesse primeiro momento; a data da obrigatoriedade ainda não foi definida\n\nSua empresa vende pra outras empresas? Conta aqui 👇\n\nConteúdo educativo • Receita Federal, CGIBS e LC 214/2025\n\n#impostos #reformatributaria #splitpayment #IBS #CBS #pequenasempresas #mataoleao"
+}
