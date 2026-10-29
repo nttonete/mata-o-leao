@@ -12,7 +12,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 
 ## Reforma tributária
 - [x] CBS e IBS em 1 minuto: quais impostos somem — 28/10
-- [ ] Split payment: o imposto separado na hora do pagamento
+- [x] Split payment: o imposto separado na hora do pagamento — 29/10
 - [ ] O que muda na nota fiscal em 2027
 - [ ] MEI na reforma tributária: o que muda e o que não muda
 - [ ] Cesta básica com alíquota zero: o que entra
