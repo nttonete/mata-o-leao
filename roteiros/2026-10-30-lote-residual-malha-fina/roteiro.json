@@ -1,0 +1,204 @@
+{
+  "titulo": "Lote residual: saiu da malha fina? A restituição cai hoje",
+  "data": "2026-10-30",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/receita-paga-nesta-sexta-feira-lote-da-malha-fina-do-imposto-de-renda",
+    "https://fenacon.org.br/?p=55843"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "SAIU DA MALHA FINA?",
+      "destaque": "RESTITUIÇÃO HOJE",
+      "linha2": "lote residual de 30/10"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Caiu na malha fina e já acertou as contas? Hoje pode ser o dia do seu dinheiro cair.",
+      "cartela": [
+        {
+          "t": "Caiu na malha fina e já acertou?",
+          "tam": 62,
+          "cor": "cinza",
+          "gap": 30
+        },
+        {
+          "caixa": "HOJE PODE CAIR",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "a sua restituição",
+          "tam": 60,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "A Receita paga nesta sexta, 30 de outubro, o lote residual do Imposto de Renda: 531,6 milhões pra mais de 184 mil pessoas.",
+      "cartela": [
+        {
+          "t": "Lote residual • 30/10",
+          "peso": "black",
+          "tam": 80,
+          "gap": 40
+        },
+        {
+          "caixa": "R$ 531,6 milhões",
+          "cor": "verde",
+          "tam": 90
+        },
+        {
+          "t": "184.442 contribuintes",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É pra quem saiu da malha fina, e inclui restituições de anos anteriores.",
+      "cartela": [
+        {
+          "t": "Pra quem é",
+          "peso": "black",
+          "tam": 90,
+          "gap": 40
+        },
+        {
+          "caixa": "saiu da malha fina",
+          "cor": "dourado",
+          "tam": 76
+        },
+        {
+          "t": "+ restituições de anos anteriores",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Idosos, pessoas com deficiência ou doença grave e professores têm prioridade: 293,4 milhões.",
+      "cartela": [
+        {
+          "t": "Prioridade legal",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "t": "idosos • deficiência ou doença grave • professores",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "R$ 293,4 milhões",
+          "cor": "verde",
+          "tam": 84
+        }
+      ]
+    },
+    {
+      "fala": "Pra conferir, vai no site ou no app da Receita, em Meu Imposto de Renda.",
+      "cartela": [
+        {
+          "t": "Como conferir",
+          "peso": "black",
+          "tam": 90,
+          "gap": 40
+        },
+        {
+          "caixa": "Meu Imposto de Renda",
+          "cor": "dourado",
+          "tam": 72
+        },
+        {
+          "t": "site ou app da Receita",
+          "tam": 58,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Não está na lista? Tira o extrato no e-CAC. Se tiver pendência, manda uma retificadora.",
+      "cartela": [
+        {
+          "t": "Não está na lista?",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "t": "veja o extrato no e-CAC",
+          "tam": 60,
+          "gap": 30
+        },
+        {
+          "caixa": "pendência? retificadora",
+          "cor": "vermelho",
+          "tam": 70
+        }
+      ]
+    },
+    {
+      "fala": "O crédito não entrou? O dinheiro fica no Banco do Brasil por até um ano pra reagendar.",
+      "cartela": [
+        {
+          "t": "O crédito não entrou?",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "fica no BB por até 1 ano",
+          "cor": "cinza",
+          "tam": 70
+        },
+        {
+          "t": "reagende numa conta no seu nome",
+          "tam": 56,
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Dúvida no seu caso? Fala com seu contador. E segue o Mata o Leão, pra entender imposto sem complicação.",
+      "cartela": [
+        {
+          "t": "Dúvida? Fale com seu contador",
+          "tam": 54,
+          "gap": 70
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Saiu da malha fina? A restituição cai hoje",
+  "legenda": "Saiu da malha fina? A restituição pode cair hoje 🦁\n\n💰 A Receita paga nesta sexta (30/10) o lote residual do IR: R$ 531,6 milhões para 184.442 contribuintes\n📋 É para quem caiu na malha fina e regularizou as pendências, e inclui restituições de anos anteriores\n🔎 Consulta em Meu Imposto de Renda, no site ou no app da Receita\n🏦 Crédito não entrou? O valor fica no Banco do Brasil por até 1 ano para reagendar\n\nVocê já conferiu a sua? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal\n\n#impostos #impostoderenda #restituicao #malhafina #receitafederal #mataoleao"
+}
