@@ -38,6 +38,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Dependente com deficiência maior de 21 anos no IR
 
 ## Mitos e dúvidas
+- [x] Lote residual do IR: saiu da malha fina, restituição cai hoje (notícia do dia) — 30/10
 - [ ] PIX e Receita: mito x verdade
 - [ ] Criptomoedas: precisa declarar?
 - [ ] Recebi herança: paga imposto?
