@@ -4,7 +4,7 @@ Marque `[x]` quando publicar. Sempre confirme a regra atual antes de gravar: vá
 lei ou resolução. Temas com data ficam no topo e têm prioridade na semana certa.
 
 ## Com data
-- [ ] Simples: janela para cancelar a opção pelo regime regular de IBS/CBS (3/11 a 20/12/2026) — postar no início de novembro
+- [x] Simples: janela para cancelar a opção pelo regime regular de IBS/CBS (3/11 a 20/12/2026) — 31/10
 - [ ] Senado define a alíquota da CBS de 2027 (prazo até 15/12) — acompanhar e postar quando sair
 - [ ] 13º salário: quanto de IR e INSS sai — novembro
 - [ ] Doação ao Fundo da Criança/Idoso no ano para abater no IR — até 31/12
