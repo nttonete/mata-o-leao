@@ -1,0 +1,83 @@
+{
+  "titulo": "Doação aos Fundos da Criança e do Idoso: escolha o destino de parte do seu IR até o fim do ano",
+  "data": "2026-11-02",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www2.camara.leg.br/legin/fed/lei/2010/lei-12213-20-janeiro-2010-600950-normaatualizada-pl.pdf",
+    "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/passo-a-passo/destinacao-de-imposto-de-renda.pdf",
+    "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/externas/56a-legislatura/politicas-para-a-primeira-infancia/apresentacoes-em-eventos/ApresentacaoRFBAudinciaPblicaQuaresma1.pdf",
+    "https://cfc.org.br/noticias/doacao-do-imposto-de-renda-pode-beneficiar-politicas-de-protecao-a-infancia-e-aos-idosos-e-pode-ser-feita-o-ano-inteiro-saiba-como-fazer/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal e Lei 12.213/2010",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "VOCÊ PODE ESCOLHER",
+      "destaque": "PRA ONDE VAI SEU IR",
+      "linha2": "prazo: fim do ano"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Sabia que dá pra escolher pra onde vai uma parte do seu Imposto de Renda? E o prazo vai até o fim de dezembro.",
+      "cartela": [
+        {"t": "Parte do seu IR", "tam": 64, "cor": "cinza", "gap": 30},
+        {"caixa": "VOCÊ ESCOLHE O DESTINO", "cor": "dourado", "tam": 70},
+        {"t": "prazo: até 31/12", "tam": 60, "gap": 0}
+      ]
+    },
+    {
+      "fala": "Quem faz a declaração completa pode doar pros Fundos da Criança e do Adolescente e da Pessoa Idosa, ligados aos conselhos da sua cidade, do seu estado ou nacional.",
+      "cartela": [
+        {"t": "Fundos da Criança", "peso": "black", "tam": 80, "gap": 20},
+        {"t": "e da Pessoa Idosa", "peso": "black", "tam": 80, "gap": 40},
+        {"caixa": "municipal, estadual ou nacional", "cor": "verde", "tam": 58},
+        {"t": "só na declaração completa", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Doando até trinta e um de dezembro, o valor é abatido do imposto devido na declaração do ano que vem, até o limite de seis por cento.",
+      "cartela": [
+        {"t": "Doou até 31/12?", "peso": "black", "tam": 84, "gap": 40},
+        {"caixa": "até 6% do imposto devido", "cor": "dourado", "tam": 70},
+        {"t": "abate na declaração de 2027", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Na prática, dentro do limite, você não paga imposto a mais: uma parte do que iria pra Receita vai pra um projeto social.",
+      "cartela": [
+        {"t": "Dentro do limite", "peso": "black", "tam": 84, "gap": 40},
+        {"caixa": "não é imposto a mais", "cor": "verde", "tam": 74},
+        {"t": "parte do IR vai pra um projeto social", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Quem deixar pra depois ainda pode doar na própria declaração, mas aí o limite cai pra três por cento em cada tipo de fundo.",
+      "cartela": [
+        {"t": "Deixou pra depois?", "peso": "black", "tam": 80, "gap": 40},
+        {"caixa": "na declaração: até 3%", "cor": "vermelho", "tam": 72},
+        {"t": "em cada tipo de fundo", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Peça o recibo da doação e guarde. Na dúvida sobre quanto doar, fale com seu contador.",
+      "cartela": [
+        {"t": "Guarde o recibo", "peso": "black", "tam": 90, "gap": 40},
+        {"caixa": "dúvida? fale com seu contador", "cor": "dourado", "tam": 60},
+        {"t": "o valor depende do seu imposto", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E segue o Mata o Leão, pra entender imposto sem complicação.",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Escolha o destino de parte do seu IR até 31/12",
+  "legenda": "Dá pra escolher pra onde vai uma parte do seu Imposto de Renda 🦁\n\n🧒👵 Doação aos Fundos da Criança e do Adolescente e da Pessoa Idosa (municipais, estaduais ou nacional)\n📅 Doou até 31/12: abate até 6% do imposto devido na declaração do ano seguinte\n📝 Deixou pra depois? Na própria declaração o limite é de 3% por tipo de fundo\n⚠️ Só vale pra quem faz a declaração completa. Guarde o recibo.\n\nVocê já sabia disso? Conta aqui 👇 Na dúvida sobre quanto doar, fale com seu contador.\n\nConteúdo educativo • Fonte: Receita Federal e Lei 12.213/2010\n\n#impostos #impostoderenda #doacao #fundodacrianca #idoso #mataoleao"
+}
