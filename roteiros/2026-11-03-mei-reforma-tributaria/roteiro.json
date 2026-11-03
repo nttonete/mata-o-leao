@@ -1,0 +1,88 @@
+{
+  "titulo": "MEI na reforma tributária: o que muda e o que não muda",
+  "data": "2026-11-03",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "Resolução CGSN nº 190, de 4/8/2026 (DOU 10/8/2026) – arts. 101 e 106 e Anexo XIII",
+    "Lei Complementar 214/2025, art. 517 (altera o art. 26 da LC 123/2006)",
+    "https://rotadajurisprudencia.com.br/wp-content/uploads/2026/08/Resolucao-CGSN-no-190-2026.pdf",
+    "https://www.contabeis.com.br/artigos/78949/reforma-tributaria-mei-o-que-muda-em-2027-nas-regras/",
+    "https://www.meucontadoronline.com.br/blog/das-do-mei-em-2027-quanto-vai-pagar-cbs-ibs/",
+    "https://guiatributario.net/2026/08/20/mei-pagara-ibs-e-cbs-a-partir-de-2027/",
+    "https://meiprofissa.com.br/blog/das-mei-ibs-cbs-2027/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: LC 214/2025 e Resolução CGSN 190/2026",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "VOCÊ É MEI?",
+      "destaque": "2027 MUDA ISSO",
+      "linha2": "guia e nota fiscal"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você é MEI? A reforma tributária vai mexer na sua guia e na sua nota fiscal. Mas calma, o principal continua igual.",
+      "cartela": [
+        {"t": "Você é MEI?", "peso": "black", "tam": 96, "gap": 40},
+        {"caixa": "Reforma mexe na guia e na nota", "cor": "dourado", "tam": 66},
+        {"t": "mas o principal continua igual", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Você continua no SIMEI, pagando um valor fixo por mês no DAS. Não tem conta de imposto sobre o que você fatura.",
+      "cartela": [
+        {"t": "O que NÃO muda", "peso": "black", "tam": 84, "cor": "verde", "gap": 40},
+        {"caixa": "Valor fixo por mês no DAS", "tam": 70},
+        {"t": "continua no SIMEI", "tam": 58, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "A partir de 2027, a CBS e o IBS entram nesse valor fixo. No começo, é cerca de um real por mês a mais na guia.",
+      "cartela": [
+        {"t": "A partir de 2027", "tam": 66, "cor": "cinza", "gap": 20},
+        {"t": "CBS + IBS no DAS", "peso": "black", "tam": 92, "gap": 40},
+        {"caixa": "cerca de R$ 1 por mês", "cor": "dourado", "tam": 74},
+        {"t": "no começo", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Até 2033, o ICMS e o ISS da guia vão diminuindo, e o IBS vai tomando o lugar deles. É uma troca aos poucos.",
+      "cartela": [
+        {"t": "Até 2033", "peso": "black", "tam": 96, "gap": 40},
+        {"t": "ICMS e ISS diminuem", "tam": 70, "cor": "vermelho", "gap": 20},
+        {"caixa": "IBS toma o lugar", "cor": "verde", "tam": 76},
+        {"t": "troca aos poucos", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "A mudança maior é a nota fiscal: a partir de 2027, o MEI vai ter que emitir nota em toda venda e serviço, até pra pessoa física.",
+      "cartela": [
+        {"t": "ATENÇÃO", "peso": "black", "tam": 110, "cor": "vermelho", "gap": 40},
+        {"caixa": "Nota fiscal em toda venda", "tam": 68},
+        {"t": "até pra pessoa física, a partir de 2027", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E aquela escolha do regime regular de IBS e CBS é pra micro e pequena empresa do Simples, não pro MEI. Dúvida no seu caso? Fale com seu contador.",
+      "cartela": [
+        {"t": "Regime regular de IBS/CBS", "tam": 64, "cor": "cinza", "gap": 20},
+        {"caixa": "não é escolha do MEI", "cor": "dourado", "tam": 74},
+        {"t": "dúvida? fale com seu contador", "tam": 56, "gap": 0}
+      ]
+    },
+    {
+      "fala": "Manda pra um MEI que você conhece. E segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Manda pra um MEI", "peso": "black", "tam": 80, "gap": 80},
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "MEI na reforma: o que muda em 2027",
+  "legenda": "Você é MEI? A reforma tributária mexe na sua guia e na sua nota fiscal, mas o principal continua igual 🦁\n\n✅ Continua no SIMEI, com valor fixo por mês no DAS\n💰 A partir de 2027, CBS e IBS entram no valor fixo: no começo, cerca de R$ 1 a mais por mês\n🔄 Até 2033, ICMS e ISS da guia diminuem e o IBS toma o lugar\n🧾 A partir de 2027, nota fiscal em toda venda e serviço, até pra pessoa física\n⚠️ A opção pelo regime regular de IBS/CBS é pra ME e EPP do Simples, não pro MEI\n\nVocê já emite nota pra pessoa física? Conta aqui 👇 Dúvida no seu caso, fale com seu contador.\n\nConteúdo educativo • Fonte: LC 214/2025 e Resolução CGSN 190/2026\n\n#impostos #mei #reformatributaria #notafiscal #empreendedor #simplesnacional #mataoleao"
+}
