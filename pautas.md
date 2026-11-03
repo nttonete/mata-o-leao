@@ -14,7 +14,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] CBS e IBS em 1 minuto: quais impostos somem — 28/10
 - [x] Split payment: o imposto separado na hora do pagamento — 29/10
 - [ ] O que muda na nota fiscal em 2027
-- [ ] MEI na reforma tributária: o que muda e o que não muda
+- [x] MEI na reforma tributária: o que muda e o que não muda — 03/11
 - [ ] Cesta básica com alíquota zero: o que entra
 - [ ] Cashback do imposto para famílias de baixa renda
 - [ ] Imposto Seletivo ("imposto do pecado"): sobre o quê
