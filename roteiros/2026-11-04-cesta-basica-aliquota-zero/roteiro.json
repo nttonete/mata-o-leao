@@ -1,0 +1,94 @@
+{
+  "titulo": "Cesta básica com imposto zero: o que entra na lista",
+  "data": "2026-11-04",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "Lei Complementar 214/2025, art. 125 e Anexo I (Cesta Básica Nacional), art. 148 e Anexo XV (hortícolas, frutas e ovos), Anexo VII (redução de 60%)",
+    "https://www2.camara.leg.br/legin/fed/leicom/2025/leicomplementar-214-16-janeiro-2025-796905-anexo-pl.pdf",
+    "https://legismap.com.br/images/normasronca2020/anexo_Lcp%20214_alt227.pdf",
+    "https://simtax.com.br/cesta-basica-nacional-ibs-cbs-lista/",
+    "https://valorfinal.com.br/guia/reforma-tributaria-cesta-basica-e-cashback",
+    "https://buscadorncm.com.br/reforma/alimentos-reducao-60",
+    "https://www.em.com.br/economia/2026/07/amp/7466063-cesta-basica-sem-imposto-veja-quais-alimentos-ficaram-mais-baratos-em-2026.html"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: LC 214/2025, Anexos I, VII e XV",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "CESTA BÁSICA",
+      "destaque": "IMPOSTO ZERO",
+      "linha2": "o que entra na lista?"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "A reforma tributária zera o imposto da cesta básica. Mas você sabe o que entra nessa lista? Tem surpresa aí.",
+      "cartela": [
+        {"t": "Cesta básica", "peso": "black", "tam": 96, "gap": 40},
+        {"caixa": "Imposto zero", "cor": "dourado", "tam": 80},
+        {"t": "mas o que entra na lista?", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Os novos impostos, CBS e IBS, ficam zerados em vinte e seis itens. A CBS começa a ser cobrada de verdade em 2027.",
+      "cartela": [
+        {"t": "CBS e IBS", "peso": "black", "tam": 92, "gap": 40},
+        {"caixa": "zerados em 26 itens", "cor": "verde", "tam": 74},
+        {"t": "CBS cobrada a partir de 2027", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Entre eles: arroz, feijão, leite, café, açúcar, farinha, macarrão e pão francês.",
+      "cartela": [
+        {"t": "Na lista", "peso": "black", "tam": 88, "cor": "verde", "gap": 40},
+        {"caixa": "arroz, feijão, leite, café", "tam": 64},
+        {"t": "açúcar, farinha, macarrão, pão francês", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Também entram carne de boi, de porco, frango, a maioria dos peixes, queijos como muçarela, minas e prato, além de sal, manteiga e margarina.",
+      "cartela": [
+        {"t": "Também entram", "peso": "black", "tam": 84, "cor": "verde", "gap": 40},
+        {"caixa": "carnes, frango e peixes", "tam": 66},
+        {"t": "queijos, sal, manteiga, margarina", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Frutas, verduras, legumes e ovos ficam numa lista à parte, também com imposto zero.",
+      "cartela": [
+        {"t": "Lista à parte", "peso": "black", "tam": 88, "gap": 40},
+        {"caixa": "frutas, verduras e ovos", "cor": "dourado", "tam": 68},
+        {"t": "também com imposto zero", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Agora a surpresa: o óleo de soja não está na lista zerada. Ele tem desconto de sessenta por cento no imposto. O único óleo zerado é o de babaçu.",
+      "cartela": [
+        {"t": "SURPRESA", "peso": "black", "tam": 110, "cor": "vermelho", "gap": 40},
+        {"caixa": "Óleo de soja não é zero", "tam": 66},
+        {"t": "tem desconto de 60% no imposto", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E atenção: imposto zero não garante preço menor. O ICMS só some de vez em 2033, e o preço também depende do mercado.",
+      "cartela": [
+        {"t": "Atenção", "peso": "black", "tam": 92, "cor": "vermelho", "gap": 40},
+        {"caixa": "Não garante preço menor", "cor": "dourado", "tam": 66},
+        {"t": "ICMS só some de vez em 2033", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Salva pra lembrar no mercado e segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Salva pra lembrar", "peso": "black", "tam": 80, "gap": 80},
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Cesta básica com imposto zero: o que entra",
+  "legenda": "A reforma tributária zera o imposto da cesta básica. Mas você sabe o que entra na lista? 🦁\n\n✅ CBS e IBS zerados em 26 itens: arroz, feijão, leite, café, açúcar, farinha, macarrão, pão francês\n🥩 Carnes, frango, a maioria dos peixes, queijos como muçarela, minas e prato, sal, manteiga e margarina\n🥦 Frutas, verduras, legumes e ovos têm lista à parte, também com imposto zero\n⚠️ Óleo de soja não é zero: tem desconto de 60%. O único óleo zerado é o de babaçu\n💡 Imposto zero não garante preço menor: o ICMS só some de vez em 2033\n\nQual item você achou que estava na lista? Conta aqui 👇\n\nConteúdo educativo • Fonte: LC 214/2025, Anexos I, VII e XV\n\n#impostos #reformatributaria #cestabasica #ibs #cbs #economia #mataoleao"
+}
