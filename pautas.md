@@ -15,7 +15,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] Split payment: o imposto separado na hora do pagamento — 29/10
 - [ ] O que muda na nota fiscal em 2027
 - [x] MEI na reforma tributária: o que muda e o que não muda — 03/11
-- [ ] Cesta básica com alíquota zero: o que entra
+- [x] Cesta básica com alíquota zero: o que entra — 04/11
 - [ ] Cashback do imposto para famílias de baixa renda
 - [ ] Imposto Seletivo ("imposto do pecado"): sobre o quê
 - [ ] Simples x regime regular de IBS/CBS: quem vende para empresa x quem vende para consumidor
