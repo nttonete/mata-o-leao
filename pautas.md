@@ -22,7 +22,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 
 ## Imposto de Renda
 - [x] Isenção até R$ 5 mil: quem ganha e como aparece no contracheque — 27/10
-- [ ] Faixa de transição até R$ 7.350
+- [x] Faixa de transição até R$ 7.350 — 05/11
 - [ ] Imposto mínimo para renda acima de R$ 600 mil/ano
 - [ ] Dividendos: o que mudou na tributação
 - [ ] Carnê-leão: autônomo que recebe de pessoa física
