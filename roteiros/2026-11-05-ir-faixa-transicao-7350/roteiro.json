@@ -1,0 +1,83 @@
+{
+  "titulo": "Ganha entre R$ 5 mil e R$ 7.350? Seu IR também caiu",
+  "data": "2026-11-05",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "Lei 15.270/2025 (redução do IRPF a partir de 1º/1/2026)",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-orienta-fontes-pagadoras-e-contribuintes-a-calcular-a-reducao-do-imposto-de-renda-a-partir-de-1o-de-janeiro-de-2026",
+    "https://crcms.org.br/?p=35112"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal, Lei 15.270/2025",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "GANHA MAIS DE R$ 5 MIL?",
+      "destaque": "SEU IR CAIU",
+      "linha2": "(até R$ 7.350 por mês)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você ganha um pouco mais de cinco mil reais e acha que ficou de fora da mudança no Imposto de Renda? Calma, que você também paga menos.",
+      "cartela": [
+        {"t": "Mais de R$ 5 mil?", "peso": "black", "tam": 92, "gap": 40},
+        {"caixa": "Você também paga menos", "cor": "dourado", "tam": 70},
+        {"t": "a faixa de transição do IR", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Desde janeiro, quem ganha até cinco mil reais por mês fica com o Imposto de Renda zerado.",
+      "cartela": [
+        {"t": "Até R$ 5 mil", "peso": "black", "tam": 100, "gap": 40},
+        {"caixa": "IR zerado", "cor": "verde", "tam": 84},
+        {"t": "desde janeiro de 2026", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E quem ganha entre cinco mil e sete mil trezentos e cinquenta reais ganha um desconto no imposto. Quanto menor a renda nessa faixa, maior o desconto.",
+      "cartela": [
+        {"t": "De R$ 5 mil a R$ 7.350", "peso": "black", "tam": 80, "gap": 40},
+        {"caixa": "desconto no imposto", "cor": "dourado", "tam": 72},
+        {"t": "menor a renda, maior o desconto", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "No exemplo da Receita, com renda de seis mil reais, o imposto cai de quinhentos e setenta e quatro pra trezentos e noventa e quatro reais por mês.",
+      "cartela": [
+        {"t": "Renda de R$ 6 mil", "peso": "black", "tam": 84, "gap": 40},
+        {"caixa": "R$ 574 → R$ 394", "cor": "verde", "tam": 84},
+        {"t": "exemplo da Receita, por mês", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Acima de sete mil trezentos e cinquenta, nada muda: vale a tabela normal do Imposto de Renda.",
+      "cartela": [
+        {"t": "Acima de R$ 7.350", "peso": "black", "tam": 88, "gap": 40},
+        {"caixa": "nada muda", "cor": "vermelho", "tam": 84},
+        {"t": "vale a tabela normal", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E o desconto também vale pro décimo terceiro. Confere no seu contracheque.",
+      "cartela": [
+        {"t": "Vale pro 13º também", "peso": "black", "tam": 84, "gap": 40},
+        {"caixa": "Confere o contracheque", "cor": "dourado", "tam": 68},
+        {"t": "o desconto vem na fonte", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Manda pra quem ganha nessa faixa e segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Manda pra quem precisa", "peso": "black", "tam": 76, "gap": 80},
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Ganha entre R$ 5 mil e R$ 7.350? Seu IR caiu",
+  "legenda": "Ganha um pouco mais de R$ 5 mil e achou que ficou de fora? Seu Imposto de Renda também caiu 🦁\n\n✅ Até R$ 5 mil por mês: IR zerado desde janeiro de 2026\n📉 De R$ 5 mil a R$ 7.350: desconto no imposto que diminui conforme a renda sobe\n💰 Exemplo da Receita: renda de R$ 6 mil, imposto cai de R$ 574 pra R$ 394 por mês\n➡️ Acima de R$ 7.350: vale a tabela normal\n📄 O desconto também vale pro 13º salário\n\nVocê já viu a diferença no seu contracheque? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal, Lei 15.270/2025\n\n#impostos #impostoderenda #ir2026 #salario #13salario #mataoleao"
+}
