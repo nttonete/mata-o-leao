@@ -17,7 +17,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] MEI na reforma tributária: o que muda e o que não muda — 03/11
 - [x] Cesta básica com alíquota zero: o que entra — 04/11
 - [ ] Cashback do imposto para famílias de baixa renda
-- [ ] Imposto Seletivo ("imposto do pecado"): sobre o quê
+- [x] Imposto Seletivo ("imposto do pecado"): sobre o quê — 06/11 (alíquotas 2027 da MP 1.399/2026)
 - [ ] Simples x regime regular de IBS/CBS: quem vende para empresa x quem vende para consumidor
 
 ## Imposto de Renda
