@@ -1,0 +1,197 @@
+{
+  "titulo": "Imposto Seletivo: o imposto novo de 2027 sobre cerveja, refrigerante, cigarro e aposta",
+  "data": "2026-11-06",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "Medida Provisória 1.399/2026 (DOU extra de 4/11/2026)",
+    "https://www.camara.leg.br/noticias/1316363-medida-provisoria-regulamenta-o-imposto-seletivo-para-2027",
+    "https://www.contabeis.com.br/noticias/80602/imposto-seletivo-governo-define-aliquotas-para-2027/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: MP 1.399/2026, Agência Câmara",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "CERVEJA, REFRI E APOSTA",
+      "destaque": "IMPOSTO NOVO",
+      "linha2": "(a partir de 2027)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Cerveja, refrigerante, cigarro e aposta vão ter imposto novo em dois mil e vinte e sete. Sabe qual é?",
+      "cartela": [
+        {
+          "t": "Cerveja, refri, cigarro, aposta",
+          "peso": "black",
+          "tam": 72,
+          "gap": 40
+        },
+        {
+          "caixa": "Imposto novo em 2027",
+          "cor": "dourado",
+          "tam": 72
+        },
+        {
+          "t": "você sabe qual é?",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É o Imposto Seletivo, o chamado imposto do pecado. Uma medida provisória desta semana definiu as alíquotas.",
+      "cartela": [
+        {
+          "t": "Imposto Seletivo",
+          "peso": "black",
+          "tam": 96,
+          "gap": 40
+        },
+        {
+          "caixa": "o \"imposto do pecado\"",
+          "cor": "vermelho",
+          "tam": 72
+        },
+        {
+          "t": "alíquotas na MP 1.399/2026",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Ele começa a valer em dois de fevereiro de dois mil e vinte e sete, em produtos que fazem mal à saúde ou ao meio ambiente.",
+      "cartela": [
+        {
+          "t": "Começa em",
+          "tam": 64,
+          "cor": "cinza",
+          "gap": 20
+        },
+        {
+          "caixa": "2 de fevereiro de 2027",
+          "cor": "dourado",
+          "tam": 76
+        },
+        {
+          "t": "saúde e meio ambiente",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Na cerveja, a alíquota é de quatro vírgula dois por cento. Nas bebidas açucaradas, como o refrigerante, dois vírgula seis por cento.",
+      "cartela": [
+        {
+          "t": "Cerveja",
+          "peso": "black",
+          "tam": 80,
+          "gap": 10
+        },
+        {
+          "caixa": "4,2%",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "Refrigerante",
+          "peso": "black",
+          "tam": 80,
+          "gap": 10
+        },
+        {
+          "caixa": "2,6%",
+          "cor": "dourado",
+          "tam": 96
+        }
+      ]
+    },
+    {
+      "fala": "Loterias e apostas pagam meio por cento. E o cigarro tem uma parte fixa de três reais e cinquenta por maço, mais um percentual.",
+      "cartela": [
+        {
+          "t": "Loterias e apostas",
+          "peso": "black",
+          "tam": 76,
+          "gap": 10
+        },
+        {
+          "caixa": "0,5%",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "Cigarro",
+          "peso": "black",
+          "tam": 76,
+          "gap": 10
+        },
+        {
+          "caixa": "R$ 3,50 por maço + %",
+          "cor": "vermelho",
+          "tam": 72
+        }
+      ]
+    },
+    {
+      "fala": "Nos carros, depende de critérios de sustentabilidade. E tem alíquota zero pra pessoa com deficiência, autista e taxista, dentro das regras.",
+      "cartela": [
+        {
+          "t": "Carros",
+          "peso": "black",
+          "tam": 96,
+          "gap": 30
+        },
+        {
+          "t": "depende da sustentabilidade",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 40
+        },
+        {
+          "caixa": "Zero: PcD, autista e taxista",
+          "cor": "verde",
+          "tam": 64
+        }
+      ]
+    },
+    {
+      "fala": "A MP ainda precisa ser votada pelo Congresso, e as alíquotas definitivas vêm depois. Segue o Mata o Leão pra acompanhar!",
+      "cartela": [
+        {
+          "t": "Ainda vai ao Congresso",
+          "peso": "black",
+          "tam": 76,
+          "gap": 80
+        },
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Imposto novo em 2027: cerveja, refri, cigarro e aposta",
+  "legenda": "Cerveja, refrigerante, cigarro e aposta vão ter imposto novo em 2027 🦁\n\n🍺 Imposto Seletivo (o \"imposto do pecado\") começa em 2 de fevereiro de 2027\n📊 Cerveja 4,2% • bebidas açucaradas 2,6% • loterias e apostas 0,5%\n🚬 Cigarro: R$ 3,50 fixos por maço + um percentual\n🚗 Carros: depende de critérios de sustentabilidade; alíquota zero pra PcD, autista e taxista, dentro das regras\n🏛️ As alíquotas estão na MP 1.399/2026, que ainda precisa ser votada pelo Congresso; as definitivas vêm depois\n\nQual desses produtos você mais compra? Conta aqui 👇\n\nConteúdo educativo • Fonte: MP 1.399/2026, Agência Câmara\n\n#impostos #reformatributaria #impostoseletivo #cerveja #mataoleao #2027"
+}
