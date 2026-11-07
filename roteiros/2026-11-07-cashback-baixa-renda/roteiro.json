@@ -1,0 +1,189 @@
+{
+  "titulo": "Cashback da reforma tributária: quem recebe imposto de volta a partir de 2027",
+  "data": "2026-11-07",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "Lei Complementar 214/2025 e Decreto 12.955/2026 (regulamento da CBS)",
+    "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/entenda-principais-mudancas-da-reforma-tributaria",
+    "https://www.camara.leg.br/noticias/1083055-estados-e-municipios-podem-elevar-cashback-da-reforma-tributaria-por-legislacao-propria/",
+    "https://www.cnnbrasil.com.br/economia/macroeconomia/cashback-saiba-como-funcionara-a-devolucao-de-impostos-da-reforma-tributaria/",
+    "https://www.em.com.br/emfoco/2026/07/31/familias-do-cadunico-terao-cashback-no-botijao-e-nas-contas-de-casa-a-partir-de-2027/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: LC 214/2025, Agência Brasil, Agência Câmara",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "IMPOSTO DE VOLTA",
+      "destaque": "CASHBACK",
+      "linha2": "(a partir de 2027)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você sabia que, a partir de dois mil e vinte e sete, parte do imposto vai voltar pro bolso de muitas famílias?",
+      "cartela": [
+        {
+          "t": "Imposto voltando",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "pro seu bolso?",
+          "cor": "dourado",
+          "tam": 80
+        },
+        {
+          "t": "a partir de 2027",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É o cashback da reforma tributária. Vale pra famílias inscritas no CadÚnico, com renda de até meio salário mínimo por pessoa.",
+      "cartela": [
+        {
+          "t": "Cashback",
+          "peso": "black",
+          "tam": 110,
+          "gap": 40
+        },
+        {
+          "caixa": "famílias no CadÚnico",
+          "cor": "verde",
+          "tam": 72
+        },
+        {
+          "t": "até ½ salário mínimo por pessoa",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Na conta de luz, de água e esgoto, e no botijão de gás, volta cem por cento da CBS, o novo imposto federal.",
+      "cartela": [
+        {
+          "t": "Luz, água, esgoto e gás",
+          "peso": "black",
+          "tam": 72,
+          "gap": 30
+        },
+        {
+          "caixa": "100% da CBS de volta",
+          "cor": "dourado",
+          "tam": 76
+        },
+        {
+          "t": "CBS = novo imposto federal",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Nas outras compras, volta vinte por cento. Mas o que tem Imposto Seletivo, como cigarro e bebida alcoólica, fica de fora.",
+      "cartela": [
+        {
+          "t": "Outras compras",
+          "peso": "black",
+          "tam": 80,
+          "gap": 10
+        },
+        {
+          "caixa": "20% de volta",
+          "cor": "dourado",
+          "tam": 90
+        },
+        {
+          "t": "Fora: cigarro, bebida alcoólica",
+          "tam": 52,
+          "cor": "vermelho",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Atenção: o que volta é o imposto que está dentro do preço, e não o valor inteiro da conta.",
+      "cartela": [
+        {
+          "t": "Atenção",
+          "peso": "black",
+          "tam": 96,
+          "gap": 30
+        },
+        {
+          "caixa": "volta o imposto",
+          "cor": "vermelho",
+          "tam": 80
+        },
+        {
+          "t": "não o valor da conta",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "A devolução da CBS começa em dois mil e vinte e sete. A do IBS, que é de estados e municípios, entra em dois mil e vinte e nove.",
+      "cartela": [
+        {
+          "t": "CBS",
+          "peso": "black",
+          "tam": 80,
+          "gap": 10
+        },
+        {
+          "caixa": "2027",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "IBS (estados e municípios)",
+          "peso": "black",
+          "tam": 64,
+          "gap": 10
+        },
+        {
+          "caixa": "2029",
+          "cor": "dourado",
+          "tam": 96
+        }
+      ]
+    },
+    {
+      "fala": "E segue o Mata o Leão, pra entender imposto sem complicação.",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Cashback do imposto em 2027: quem recebe de volta",
+  "legenda": "Parte do imposto vai voltar pro bolso de muitas famílias a partir de 2027 🦁\n\n💸 É o cashback da reforma tributária: vale pra famílias no CadÚnico com renda de até meio salário mínimo por pessoa\n💡 Luz, água, esgoto e botijão de gás: volta 100% da CBS\n🛒 Outras compras: volta 20% (produtos com Imposto Seletivo, como cigarro e bebida alcoólica, ficam de fora)\n⚠️ Volta o imposto que está no preço, não o valor da conta\n📅 CBS a partir de 2027; IBS (estados e municípios) a partir de 2029\n🧾 As compras contam pelo CPF na nota, então vale manter o CadÚnico em dia\n\nVocê conhece alguém que vai ter direito? Manda esse vídeo pra ela 👇\n\nConteúdo educativo • Fonte: LC 214/2025, Agência Brasil, Agência Câmara\n\n#impostos #reformatributaria #cashback #cadunico #mataoleao #2027",
+  "nota_audio": "Segmento 7 reaproveita a narração genérica de chamada do vídeo de 02/11 (créditos do Runway acabaram)."
+}
