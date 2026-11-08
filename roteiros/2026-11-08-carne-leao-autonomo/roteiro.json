@@ -1,0 +1,185 @@
+{
+  "titulo": "Carnê-leão: autônomo que recebe de pessoa física (com a redução de 2026)",
+  "data": "2026-11-08",
+  "horario": "19:00",
+  "status": "RASCUNHO – narração não gerada (Runway sem créditos em 08/11). Pesquisa conferida; falta áudio e montagem.",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/carne-leao",
+    "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15270-26-novembro-2025-798354-publicacaooriginal-177117-pl.html",
+    "https://www.legisweb.com.br/noticia/?id=31995",
+    "https://fenacon.org.br/noticias/carne-leao-como-fazer-o-preenchimento-mensal-para-retencao-de-impostos/",
+    "https://www.infomoney.com.br/minhas-financas/sou-autonomo-como-fazer-a-declaracao-de-imposto-de-renda-com-o-carne-leao/",
+    "https://www.contabilizei.com.br/contabilidade-online/carne-leao-2026/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal, Lei 15.270/2025",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "AUTÔNOMO?",
+      "destaque": "CARNÊ-LEÃO",
+      "linha2": "(o imposto de todo mês)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você é autônomo e recebe de pessoa física? Então o Leão quer falar com você todo mês.",
+      "cartela": [
+        {
+          "t": "Autônomo?",
+          "peso": "black",
+          "tam": 100,
+          "gap": 30
+        },
+        {
+          "caixa": "recebe de pessoa física",
+          "cor": "dourado",
+          "tam": 70
+        },
+        {
+          "t": "o Leão é mensal",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É o carnê-leão. Vale pra quem recebe de pessoa física ou do exterior, como professor particular e dentista, e também pra quem recebe aluguel.",
+      "cartela": [
+        {
+          "t": "Carnê-leão",
+          "peso": "black",
+          "tam": 110,
+          "gap": 40
+        },
+        {
+          "caixa": "pagou pessoa física",
+          "cor": "verde",
+          "tam": 72
+        },
+        {
+          "t": "serviço, aluguel ou exterior",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Se quem te paga é uma empresa, normalmente ela já desconta o imposto na fonte. Aí não entra no carnê-leão.",
+      "cartela": [
+        {
+          "t": "Pagou empresa?",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "desconto na fonte",
+          "cor": "cinza",
+          "tam": 76
+        },
+        {
+          "t": "não entra no carnê-leão",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "A boa notícia: desde janeiro de 2026, quem recebe até cinco mil reais no mês fica com imposto zerado também no carnê-leão. Até sete mil trezentos e cinquenta, ele diminui.",
+      "cartela": [
+        {
+          "t": "Desde jan/2026",
+          "peso": "black",
+          "tam": 80,
+          "gap": 20
+        },
+        {
+          "caixa": "até R$ 5 mil: zero",
+          "cor": "verde",
+          "tam": 80
+        },
+        {
+          "t": "até R$ 7.350: imposto menor",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Você lança os valores no Carnê-Leão, dentro do e-CAC da Receita. Dá pra abater algumas despesas, e o sistema calcula e gera o DARF.",
+      "cartela": [
+        {
+          "t": "Onde fazer",
+          "peso": "black",
+          "tam": 90,
+          "gap": 30
+        },
+        {
+          "caixa": "e-CAC da Receita",
+          "cor": "dourado",
+          "tam": 80
+        },
+        {
+          "t": "o sistema gera o DARF",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "O DARF vence no último dia útil do mês seguinte ao que você recebeu. Atrasou? Tem multa e juros.",
+      "cartela": [
+        {
+          "t": "Vencimento",
+          "peso": "black",
+          "tam": 90,
+          "gap": 30
+        },
+        {
+          "caixa": "último dia útil do mês seguinte",
+          "cor": "dourado",
+          "tam": 60
+        },
+        {
+          "t": "atrasou: multa + juros",
+          "tam": 56,
+          "cor": "vermelho",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E isso não dispensa a declaração anual. Na dúvida, fala com seu contador. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Carnê-leão: o imposto mensal do autônomo",
+  "legenda": "Autônomo que recebe de pessoa física tem um imposto de todo mês: o carnê-leão 🦁\n\n👤 Vale pra quem recebe de pessoa física ou do exterior (serviços, aluguel)\n🏢 Pagou uma empresa? Normalmente o imposto já é descontado na fonte\n✅ Desde jan/2026: até R$ 5 mil no mês, imposto zerado; até R$ 7.350, imposto menor\n💻 Lança no Carnê-Leão do e-CAC e o sistema gera o DARF\n📅 Vence no último dia útil do mês seguinte ao recebimento\n📝 Não dispensa a declaração anual\n\nVocê já usa o carnê-leão? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal, Lei 15.270/2025\n\n#impostos #carneleao #autonomo #impostoderenda #receitafederal #mataoleao"
+}
