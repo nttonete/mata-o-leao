@@ -25,7 +25,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] Faixa de transição até R$ 7.350 — 05/11
 - [ ] Imposto mínimo para renda acima de R$ 600 mil/ano
 - [ ] Dividendos: o que mudou na tributação
-- [ ] Carnê-leão: autônomo que recebe de pessoa física
+- [x] Carnê-leão: autônomo que recebe de pessoa física — 09/11
 - [ ] Aluguel recebido: como declarar
 - [ ] Venda de imóvel: quando não paga ganho de capital
 - [ ] Malha fina: 5 erros mais comuns
