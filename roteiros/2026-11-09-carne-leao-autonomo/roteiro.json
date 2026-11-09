@@ -1,16 +1,15 @@
 {
   "titulo": "Carnê-leão: autônomo que recebe de pessoa física (com a redução de 2026)",
-  "data": "2026-11-08",
+  "data": "2026-11-09",
   "horario": "19:00",
-  "status": "RASCUNHO – narração não gerada (Runway sem créditos em 08/11). Pesquisa conferida; falta áudio e montagem.",
   "musica": "trilha-1-lofi.mp3",
   "volume_musica": 0.28,
   "fontes": [
-    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/carne-leao",
-    "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15270-26-novembro-2025-798354-publicacaooriginal-177117-pl.html",
     "https://www.legisweb.com.br/noticia/?id=31995",
-    "https://fenacon.org.br/noticias/carne-leao-como-fazer-o-preenchimento-mensal-para-retencao-de-impostos/",
+    "https://crcms.org.br/receita-federal-orienta-calculo-da-reducao-do-ir-a-partir-de-2026/",
     "https://www.infomoney.com.br/minhas-financas/sou-autonomo-como-fazer-a-declaracao-de-imposto-de-renda-com-o-carne-leao/",
+    "https://razonet.com.br/contabilidade-digital/carne-leao-2026-quem-paga-como-calcular-e-lancar-no-irpf",
+    "https://contaazul.com/blog/o-que-e-carne-leao-e-quem-deve-pagar/",
     "https://www.contabilizei.com.br/contabilidade-online/carne-leao-2026/"
   ],
   "rodape": "Conteúdo educativo • Fonte: Receita Federal, Lei 15.270/2025",
