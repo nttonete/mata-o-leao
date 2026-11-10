@@ -1,0 +1,82 @@
+{
+  "titulo": "Alíquota da CBS em 2027: TCU calculou 11,3%, Senado decide até 15/12",
+  "data": "2026-11-10",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota",
+    "https://investnews.com.br/economia/aliquota-cbs-tcu-2027/",
+    "https://anrbrasil.org.br/cbs-em-2027-tcu-calcula-aliquota-de-referencia-de-113-fixacao-compete-ao-senado/",
+    "https://mais.opovo.com.br/jornal/economia/2026/10/29/reforma-tributaria-tcu-aprova-aliquota-de-referencia-de-113-para-a-cbs-em-2027.html"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: TCU, Senado Federal, LC 214/2025",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "CBS EM 2027",
+      "destaque": "11,3%?",
+      "linha2": "(o número do novo imposto)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Onze vírgula três por cento. Esse é o número que o TCU calculou pra CBS, o novo imposto federal, em 2027. Vem entender.",
+      "cartela": [
+        {"t": "CBS em 2027", "peso": "black", "tam": 96, "gap": 30},
+        {"caixa": "11,3%", "cor": "dourado", "tam": 120},
+        {"t": "a conta do TCU", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "A CBS substitui o PIS e a Cofins a partir de janeiro de 2027. Ela vai estar no preço de quase tudo que você compra e vende.",
+      "cartela": [
+        {"t": "Jan/2027", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "PIS + Cofins → CBS", "cor": "verde", "tam": 72},
+        {"t": "no preço de quase tudo", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Quem fez a conta foi o Tribunal de Contas da União. Em 28 de outubro, ele calculou a alíquota de referência: onze vírgula três por cento.",
+      "cartela": [
+        {"t": "TCU, 28/10", "peso": "black", "tam": 96, "gap": 30},
+        {"caixa": "alíquota de referência", "cor": "dourado", "tam": 70},
+        {"t": "11,3% pra 2027", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "A estimativa usada antes era de nove vírgula vinte e um. A conta é feita pra CBS arrecadar o mesmo que o PIS e a Cofins.",
+      "cartela": [
+        {"t": "Antes: 9,21%", "peso": "black", "tam": 90, "gap": 30},
+        {"caixa": "agora: 11,3%", "cor": "vermelho", "tam": 84},
+        {"t": "pra manter a arrecadação", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Agora quem decide é o Senado, até 15 de dezembro. Se o Senado não aprovar a tempo, vale o número do TCU.",
+      "cartela": [
+        {"t": "Quem decide?", "peso": "black", "tam": 90, "gap": 30},
+        {"caixa": "Senado, até 15/12", "cor": "dourado", "tam": 76},
+        {"t": "sem decisão: vale o TCU", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E atenção: esse é o número de referência. A cesta básica tem alíquota zero, e saúde e educação têm desconto.",
+      "cartela": [
+        {"t": "É referência", "peso": "black", "tam": 90, "gap": 30},
+        {"caixa": "cesta básica: zero", "cor": "verde", "tam": 72},
+        {"t": "saúde e educação: desconto", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Tem empresa? Fala com seu contador pra planejar os preços de 2027. E segue o Mata o Leão pra saber o número final!",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "o número final vem aí", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "CBS de 11,3% em 2027? Entenda o número",
+  "legenda": "11,3%: esse é o número que o TCU calculou pra CBS, o novo imposto federal, em 2027 🦁\n\n🔄 A CBS substitui o PIS e a Cofins a partir de janeiro de 2027\n🧮 O TCU calculou a alíquota de referência em 28/10 (antes, a estimativa era 9,21%)\n🏛️ O Senado tem até 15/12 pra definir. Se não decidir, vale o cálculo do TCU\n🛒 É referência: cesta básica tem alíquota zero, e saúde e educação têm desconto\n\nTem empresa? Já está pensando nos preços de 2027? Conta aqui 👇\n\nConteúdo educativo • Fonte: TCU, Senado Federal, LC 214/2025\n\n#impostos #reformatributaria #cbs #pequenasempresas #empreendedor #mataoleao"
+}
