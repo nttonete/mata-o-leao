@@ -1,0 +1,83 @@
+{
+  "titulo": "Saúde x educação no IR: o que abate e o que fica de fora",
+  "data": "2026-11-11",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/preenchimento/manual-mir/pagamentos-ou-doacoes/despesas-dedutiveis",
+    "https://www.cnnbrasil.com.br/economia/financas/imposto-de-renda-2026-veja-quais-sao-as-despesas-dedutiveis-e-tire-duvidas/",
+    "https://istoedinheiro.com.br/ir-2026-como-deduzir-gastos-com-educacao-saude-e-previdencia-privada",
+    "https://crcma.org.br/ir-2023-saiba-a-diferenca-entre-a-declaracao-simplificada-e-a-completa",
+    "https://www.opovo.com.br/noticias/economia/2026/04/17/amp/e-melhor-fazer-a-declaracao-do-irpf-completa-ou-simplificada.html"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (Meu Imposto de Renda)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "ISSO ABATE NO IR?",
+      "destaque": "SAÚDE x ESCOLA",
+      "linha2": "(o que entra e o que não)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Consulta médica abate no Imposto de Renda. Mas e a escola, o remédio e o curso de inglês? Vem ver o que entra.",
+      "cartela": [
+        {"t": "Isso abate no IR?", "peso": "black", "tam": 84, "gap": 30},
+        {"caixa": "saúde x educação", "cor": "dourado", "tam": 84},
+        {"t": "o que entra e o que não", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Saúde não tem teto. Médico, dentista, psicólogo, fisioterapeuta, exame, hospital e plano de saúde entram pelo valor pago.",
+      "cartela": [
+        {"t": "Saúde", "peso": "black", "tam": 110, "gap": 30},
+        {"caixa": "sem limite", "cor": "verde", "tam": 96},
+        {"t": "médico, dentista, psicólogo, exame, plano", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Mas remédio comprado na farmácia não abate. Ele só entra se estiver na conta do hospital.",
+      "cartela": [
+        {"t": "Remédio da farmácia", "peso": "black", "tam": 76, "gap": 30},
+        {"caixa": "não abate", "cor": "vermelho", "tam": 96},
+        {"t": "só na conta do hospital", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Educação tem teto: três mil, quinhentos e sessenta e um reais e cinquenta centavos por ano, por pessoa. Vale escola, faculdade, pós e curso técnico.",
+      "cartela": [
+        {"t": "Educação", "peso": "black", "tam": 110, "gap": 30},
+        {"caixa": "R$ 3.561,50", "cor": "dourado", "tam": 96},
+        {"t": "por ano, por pessoa", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Curso de idiomas, cursinho, material, uniforme e transporte escolar ficam de fora.",
+      "cartela": [
+        {"t": "Fica de fora", "peso": "black", "tam": 90, "gap": 30},
+        {"caixa": "idiomas e cursinho", "cor": "vermelho", "tam": 72},
+        {"t": "material, uniforme, transporte", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E atenção: isso só vale na declaração completa. Guarde os recibos, com o CPF ou CNPJ de quem prestou o serviço.",
+      "cartela": [
+        {"t": "Atenção", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "só na declaração completa", "cor": "dourado", "tam": 68},
+        {"t": "guarde recibo com CPF/CNPJ", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Ficou na dúvida sobre o seu caso? Fala com seu contador. E segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Saúde x escola: o que abate no IR",
+  "legenda": "Consulta médica abate no IR. E a escola, o remédio e o inglês? 🦁\n\n🩺 Saúde não tem limite: médico, dentista, psicólogo, fisioterapeuta, exames, hospital e plano de saúde\n💊 Remédio de farmácia não abate (só se estiver na conta do hospital)\n🎓 Educação tem teto de R$ 3.561,50 por ano, por pessoa: escola, faculdade, pós e curso técnico\n🚫 Idiomas, cursinho, material, uniforme e transporte escolar ficam de fora\n🧾 Só vale na declaração completa: guarde os recibos com CPF/CNPJ de quem prestou o serviço\n\nQual gasto seu você achava que abatia? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal (Meu Imposto de Renda)\n\n#impostos #impostoderenda #irpf #deducoes #receitafederal #mataoleao"
+}
