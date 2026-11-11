@@ -29,7 +29,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Aluguel recebido: como declarar
 - [ ] Venda de imóvel: quando não paga ganho de capital
 - [ ] Malha fina: 5 erros mais comuns
-- [ ] Despesas que abatem (saúde x educação)
+- [x] Despesas que abatem (saúde x educação) — 11/11
 
 ## Direitos da pessoa com deficiência
 - [x] Escola de filho autista abatida inteira no IR como despesa médica (Tema 324 TNU) — 26/10
