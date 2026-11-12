@@ -1,0 +1,182 @@
+{
+  "titulo": "Cashback da reforma tributária: quem recebe imposto de volta",
+  "data": "2026-11-12",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.reformatributaria.com/wp-content/uploads/2026/01/Lcp-214.pdf",
+    "https://exame.com/economia/cashback-da-reforma-tributaria-quem-tem-direito-e-como-funciona-a-devolucao-de-impostos/",
+    "https://www.contabeis.com.br/noticias/73635/cashback-da-reforma-tributaria-vai-devolver-parte-dos-tributos-pagos/",
+    "https://edoo.me/blog/noticias-edoo-4/cashback-do-ibs-cbs-receita-federal-detalha-cronograma-de-devolucao-e-reforca-por-que-cpf-e-cclasstrib-corretos-na-nota-ja-importam-59"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: LC 214/2025 (arts. 112 a 118)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "IMPOSTO DE VOLTA?",
+      "destaque": "CASHBACK",
+      "linha2": "(quem recebe a partir de 2027)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Tem família que vai receber de volta parte do imposto que paga nas compras. É o cashback da reforma tributária. Quem tem direito?",
+      "cartela": [
+        {
+          "t": "Imposto de volta?",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "cashback",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "o da reforma tributária",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Quem está no Cadastro Único, o CadÚnico, com renda de até meio salário mínimo por pessoa da família, CPF regular e morando no Brasil.",
+      "cartela": [
+        {
+          "t": "Quem recebe",
+          "peso": "black",
+          "tam": 100,
+          "gap": 30
+        },
+        {
+          "caixa": "família no CadÚnico",
+          "cor": "verde",
+          "tam": 72
+        },
+        {
+          "t": "até ½ salário mínimo por pessoa",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Na conta de luz, de água, de esgoto, no botijão de gás e na conta de telefone e internet, volta cem por cento da CBS, o novo imposto federal.",
+      "cartela": [
+        {
+          "t": "Luz, água, gás, internet",
+          "peso": "black",
+          "tam": 70,
+          "gap": 30
+        },
+        {
+          "caixa": "100% da CBS",
+          "cor": "verde",
+          "tam": 96
+        },
+        {
+          "t": "o novo imposto federal",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Nas outras compras, volta vinte por cento da CBS. Bebida alcoólica e cigarro ficam de fora.",
+      "cartela": [
+        {
+          "t": "Outras compras",
+          "peso": "black",
+          "tam": 90,
+          "gap": 30
+        },
+        {
+          "caixa": "20% da CBS",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "bebida alcoólica e cigarro: fora",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "A devolução da CBS vale para o consumo a partir de 2027. A do IBS, o imposto de estados e municípios, só em 2029, de vinte por cento.",
+      "cartela": [
+        {
+          "t": "Quando começa",
+          "peso": "black",
+          "tam": 90,
+          "gap": 30
+        },
+        {
+          "caixa": "CBS: 2027",
+          "cor": "dourado",
+          "tam": 96
+        },
+        {
+          "t": "IBS: 2029 (20%)",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "O cálculo usa as notas fiscais ligadas ao CPF da família. Então mantenha o Cadastro Único atualizado e peça CPF na nota.",
+      "cartela": [
+        {
+          "t": "Fica a dica",
+          "peso": "black",
+          "tam": 100,
+          "gap": 30
+        },
+        {
+          "caixa": "CPF na nota",
+          "cor": "vermelho",
+          "tam": 96
+        },
+        {
+          "t": "e CadÚnico atualizado",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Manda pra quem precisa saber disso. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Cashback do imposto: quem recebe",
+  "legenda": "Tem família que vai receber de volta parte do imposto das compras. É o cashback da reforma tributária 🦁\n\n👨‍👩‍👧 Quem recebe: família no CadÚnico com renda de até meio salário mínimo por pessoa, CPF regular e morando no Brasil\n💡 Luz, água, esgoto, botijão de gás, telefone e internet: volta 100% da CBS\n🛒 Outras compras: volta 20% da CBS (bebida alcoólica e cigarro ficam de fora)\n📅 CBS a partir do consumo de 2027; IBS só em 2029 (20%)\n🧾 O cálculo usa as notas ligadas ao CPF da família: peça CPF na nota e mantenha o CadÚnico atualizado\n\nConhece alguém que tem direito? Marca aqui 👇\n\nConteúdo educativo • Fonte: LC 214/2025 (arts. 112 a 118)\n\n#impostos #reformatributaria #cashback #cadunico #cbs #mataoleao"
+}
