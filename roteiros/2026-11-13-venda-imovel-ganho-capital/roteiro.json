@@ -1,0 +1,82 @@
+{
+  "titulo": "Venda de imóvel: quando não paga imposto sobre o lucro",
+  "data": "2026-11-13",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/pagamento/ganhos-de-capital/operacoes-nao-sujeitas",
+    "https://borainvestir.b3.com.br/noticias/imposto-de-renda/isencao-de-ir-na-venda-de-imoveis-receita-esclarece-que-nada-mudou-nas-regras-em-2025/",
+    "https://investnews.com.br/financas/venda-de-imovel-imposto-de-renda-2026/",
+    "https://nradvocacia.com.br/isencao-de-ganho-de-capital-na-venda-de-imovel/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (Leis 9.250/95 e 11.196/05)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "VENDEU IMÓVEL?",
+      "destaque": "PODE NÃO PAGAR",
+      "linha2": "(imposto sobre o lucro)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Vendeu um imóvel com lucro? Em geral tem imposto de renda. Mas tem caso em que você não paga nada. Olha só.",
+      "cartela": [
+        {"t": "Vendeu com lucro?", "peso": "black", "tam": 84, "gap": 30},
+        {"caixa": "pode não pagar", "cor": "dourado", "tam": 90},
+        {"t": "imposto de renda sobre o lucro", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Quando tem imposto, é de quinze por cento sobre o lucro da venda, pra quem lucra até cinco milhões de reais.",
+      "cartela": [
+        {"t": "Quando tem imposto", "peso": "black", "tam": 84, "gap": 30},
+        {"caixa": "15% do lucro", "cor": "vermelho", "tam": 96},
+        {"t": "lucro de até R$ 5 milhões", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Primeiro caso: é o seu único imóvel, você vendeu por até quatrocentos e quarenta mil reais e não vendeu outro imóvel nos últimos cinco anos.",
+      "cartela": [
+        {"t": "Único imóvel", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "até R$ 440 mil", "cor": "verde", "tam": 96},
+        {"t": "sem outra venda em 5 anos", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Segundo: você usa o dinheiro pra comprar outro imóvel residencial no Brasil em até cento e oitenta dias. Essa regra só vale uma vez a cada cinco anos.",
+      "cartela": [
+        {"t": "Comprou outro residencial", "peso": "black", "tam": 68, "gap": 30},
+        {"caixa": "em até 180 dias", "cor": "verde", "tam": 90},
+        {"t": "1 vez a cada 5 anos", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Atenção: construir, reformar ou comprar terreno não conta. E se aplicar só parte do dinheiro, paga imposto sobre o resto.",
+      "cartela": [
+        {"t": "Não conta", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "obra, reforma, terreno", "cor": "vermelho", "tam": 72},
+        {"t": "aplicou só parte? paga no resto", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Terceiro: imóvel comprado até mil novecentos e sessenta e nove não paga imposto sobre o lucro, por mais que tenha valorizado.",
+      "cartela": [
+        {"t": "Comprado até", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "1969", "cor": "dourado", "tam": 110},
+        {"t": "lucro sem imposto", "tam": 56, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Cada venda tem seus detalhes, então fale com seu contador antes. E segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Venda de imóvel sem imposto: 3 casos",
+  "legenda": "Vendeu um imóvel com lucro? Tem caso em que não paga imposto de renda 🦁\n\n💰 Quando tem imposto: 15% sobre o lucro (para lucro de até R$ 5 milhões)\n🏠 Único imóvel vendido por até R$ 440 mil, sem outra venda de imóvel nos últimos 5 anos\n🔁 Dinheiro usado para comprar outro imóvel residencial no Brasil em até 180 dias (só 1 vez a cada 5 anos; construir, reformar ou comprar terreno não conta)\n📜 Imóvel comprado até 1969: lucro sem imposto\n\nCada venda tem seus detalhes: fale com seu contador antes de fechar. Vai vender ou já vendeu? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal (Leis 9.250/95 e 11.196/05)\n\n#impostos #impostoderenda #imovel #ganhodecapital #receitafederal #mataoleao"
+}
