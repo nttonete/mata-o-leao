@@ -27,7 +27,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Dividendos: o que mudou na tributação
 - [x] Carnê-leão: autônomo que recebe de pessoa física — 09/11
 - [ ] Aluguel recebido: como declarar
-- [ ] Venda de imóvel: quando não paga ganho de capital
+- [x] Venda de imóvel: quando não paga ganho de capital — 13/11
 - [ ] Malha fina: 5 erros mais comuns
 - [x] Despesas que abatem (saúde x educação) — 11/11
 
