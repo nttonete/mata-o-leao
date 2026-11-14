@@ -1,0 +1,83 @@
+{
+  "titulo": "Lucro da empresa: quando o dividendo tem imposto",
+  "data": "2026-11-14",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2025/dezembro/receita-federal-atualiza-normas-relativas-ao-imposto-sobre-a-renda-das-pessoas-fisicas",
+    "https://brasil61.com/n/receita-detalha-regras-para-retencao-de-10-sobre-lucros-e-dividendos-na-fonte-bras2616903.amp",
+    "https://www.ozai.com.br/tributacao-lucros-dividendos-2026/",
+    "https://capitalaberto.com.br/insights/freitas-ferraz-advogados/2026/02/o-novo-regime-de-tributacao-de-dividendos-no-brasil-aspectos-juridicos-e-reflexos-da-lei-no-15-270-2025",
+    "https://www.barbieriadvogados.com/en/?p=6059"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (Lei 15.270/2025)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "TIRA LUCRO DA EMPRESA?",
+      "destaque": "ACIMA DE R$ 50 MIL",
+      "linha2": "(tem imposto na fonte)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Você é sócio e tira lucro da sua empresa? Desde janeiro, dividendo pode ter imposto de renda. Olha a regra.",
+      "cartela": [
+        {"t": "Tira lucro da empresa?", "peso": "black", "tam": 76, "gap": 30},
+        {"caixa": "dividendo com IR", "cor": "dourado", "tam": 90},
+        {"t": "regra nova desde jan/2026", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Se a mesma empresa pagar mais de cinquenta mil reais de lucro pra você no mesmo mês, ela tem que reter dez por cento de imposto.",
+      "cartela": [
+        {"t": "Mais de R$ 50 mil no mês", "peso": "black", "tam": 70, "gap": 30},
+        {"caixa": "10% retido", "cor": "vermelho", "tam": 100},
+        {"t": "pela empresa que paga", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "E atenção: os dez por cento são sobre o valor todo, não só sobre o que passou dos cinquenta mil.",
+      "cartela": [
+        {"t": "Atenção", "peso": "black", "tam": 100, "gap": 30},
+        {"caixa": "sobre o valor todo", "cor": "vermelho", "tam": 84},
+        {"t": "não só sobre o excedente", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Até cinquenta mil por mês, da mesma empresa, não tem essa retenção. E valores de empresas diferentes não se somam.",
+      "cartela": [
+        {"t": "Até R$ 50 mil/mês", "peso": "black", "tam": 84, "gap": 30},
+        {"caixa": "sem retenção", "cor": "verde", "tam": 96},
+        {"t": "empresas diferentes não somam", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Segundo a Receita, isso vale também pra empresa do Simples Nacional. Esse ponto ainda é discutido no Supremo.",
+      "cartela": [
+        {"t": "Simples Nacional", "peso": "black", "tam": 90, "gap": 30},
+        {"caixa": "também retém", "cor": "dourado", "tam": 96},
+        {"t": "entendimento da Receita; tema no STF", "tam": 46, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Na declaração, quem ganha mais de seiscentos mil reais no ano pode ter um imposto mínimo, que chega a dez por cento a partir de um milhão e duzentos mil. O que foi retido é descontado.",
+      "cartela": [
+        {"t": "Mais de R$ 600 mil/ano", "peso": "black", "tam": 72, "gap": 30},
+        {"caixa": "imposto mínimo", "cor": "dourado", "tam": 90},
+        {"t": "até 10%; o retido é descontado", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Cada empresa tem seus detalhes, então fale com seu contador. E segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Dividendo acima de R$ 50 mil tem imposto",
+  "legenda": "Você tira lucro da sua empresa? Desde janeiro de 2026, dividendo pode ter imposto de renda 🦁\n\n💰 Mesma empresa pagou mais de R$ 50 mil de lucro pra você no mesmo mês: ela retém 10% de IR\n⚠️ Os 10% incidem sobre o valor todo do mês, não só sobre o que passou de R$ 50 mil\n✅ Até R$ 50 mil por mês da mesma empresa: sem retenção (empresas diferentes não se somam)\n🏢 Segundo a Receita, vale também para o Simples Nacional (tema em discussão no STF)\n📊 Na declaração: renda acima de R$ 600 mil no ano pode ter imposto mínimo de até 10%, descontando o que já foi retido\n\nCada empresa tem seus detalhes: fale com seu contador. Você já viu essa retenção na sua empresa? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal (Lei 15.270/2025)\n\n#impostos #dividendos #impostoderenda #simplesnacional #empreendedor #mataoleao"
+}
