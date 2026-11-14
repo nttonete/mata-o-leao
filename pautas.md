@@ -24,7 +24,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] Isenção até R$ 5 mil: quem ganha e como aparece no contracheque — 27/10
 - [x] Faixa de transição até R$ 7.350 — 05/11
 - [ ] Imposto mínimo para renda acima de R$ 600 mil/ano
-- [ ] Dividendos: o que mudou na tributação
+- [x] Dividendos: o que mudou na tributação — 14/11 (retenção de 10% acima de R$ 50 mil/mês)
 - [x] Carnê-leão: autônomo que recebe de pessoa física — 09/11
 - [ ] Aluguel recebido: como declarar
 - [x] Venda de imóvel: quando não paga ganho de capital — 13/11
