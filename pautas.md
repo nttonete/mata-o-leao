@@ -28,7 +28,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] Carnê-leão: autônomo que recebe de pessoa física — 09/11
 - [ ] Aluguel recebido: como declarar
 - [x] Venda de imóvel: quando não paga ganho de capital — 13/11
-- [ ] Malha fina: 5 erros mais comuns
+- [x] Malha fina: erros mais comuns — 18/11 (3 motivos + como conferir no e-CAC)
 - [x] Despesas que abatem (saúde x educação) — 11/11
 
 ## Direitos da pessoa com deficiência
