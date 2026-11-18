@@ -1,0 +1,183 @@
+{
+  "titulo": "Malha fina: os 3 motivos que mais prendem a declaração",
+  "data": "2026-11-18",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://www.correiodamanha.com.br/economia/2026/06/290639-receita-informa-que-22-milhoes-de-declaracoes-cairam-na-malha-fina.html",
+    "https://www.infomoney.com.br/minhas-financas/mais-de-14-milhao-ja-cairam-na-malha-fina-do-ir-2026-veja-os-motivos/",
+    "https://www.em.com.br/economia/2026/06/7438362-como-consultar-a-malha-fina-e-regularizar-o-imposto-de-renda.html",
+    "https://www.cnnbrasil.com.br/economia/financas/ir-2026-imposto-de-renda-malha-fina-receita-federal-como-nao-cair/",
+    "https://www.infomoney.com.br/minhas-financas/o-que-acontece-se-voce-cair-na-malha-fina-do-imposto-de-renda/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "CAIU NA MALHA FINA?",
+      "destaque": "3 MOTIVOS",
+      "linha2": "(que mais prendem a declaração)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Sua restituição não caiu até agora? Pode ser malha fina. Olha os três motivos que mais prendem a declaração, segundo a Receita.",
+      "cartela": [
+        {
+          "t": "Restituição não caiu?",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "pode ser malha fina",
+          "cor": "dourado",
+          "tam": 84
+        },
+        {
+          "t": "os 3 motivos mais comuns",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Primeiro: deduções, principalmente despesa médica. Valor que não bate com o recibo, ou gasto sem comprovante, é erro clássico.",
+      "cartela": [
+        {
+          "t": "1. Despesa médica",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "erro clássico",
+          "cor": "vermelho",
+          "tam": 90
+        },
+        {
+          "t": "valor errado ou sem comprovante",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Segundo: esquecer algum rendimento. E isso vale pros dependentes também: se o seu filho teve renda, ela entra na sua declaração.",
+      "cartela": [
+        {
+          "t": "2. Renda esquecida",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "dos dependentes também",
+          "cor": "vermelho",
+          "tam": 76
+        },
+        {
+          "t": "toda renda entra na declaração",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Terceiro: imposto retido diferente do que a empresa informou pra Receita. Por isso, copie os valores direto do informe de rendimentos.",
+      "cartela": [
+        {
+          "t": "3. Imposto retido",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "diferente do informe",
+          "cor": "vermelho",
+          "tam": 80
+        },
+        {
+          "t": "copie do informe de rendimentos",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Pra conferir, entra no e-CAC com a conta gov.br, em Meu Imposto de Renda, e olha as Pendências de Malha.",
+      "cartela": [
+        {
+          "t": "Como conferir",
+          "peso": "black",
+          "tam": 90,
+          "gap": 30
+        },
+        {
+          "caixa": "e-CAC",
+          "cor": "dourado",
+          "tam": 110
+        },
+        {
+          "t": "Meu Imposto de Renda › Pendências",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Achou erro? Manda uma declaração retificadora. Se está tudo certo, guarda os comprovantes e espera a Receita chamar.",
+      "cartela": [
+        {
+          "t": "Achou erro?",
+          "peso": "black",
+          "tam": 96,
+          "gap": 30
+        },
+        {
+          "caixa": "retificadora",
+          "cor": "verde",
+          "tam": 100
+        },
+        {
+          "t": "tudo certo? guarde os comprovantes",
+          "tam": 48,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Cada caso tem seus detalhes, então fala com seu contador. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Malha fina: os 3 motivos mais comuns",
+  "legenda": "Sua restituição do IR ainda não caiu? Pode ser malha fina 🦁\n\n🩺 1º motivo: deduções, principalmente despesa médica com valor errado ou sem comprovante\n💸 2º: rendimento esquecido, inclusive dos dependentes\n🧾 3º: imposto retido diferente do que a empresa informou à Receita\n🔎 Pra conferir: e-CAC (conta gov.br) › Meu Imposto de Renda › Pendências de Malha\n✅ Achou erro? Declaração retificadora. Tudo certo? Guarde os comprovantes e aguarde a Receita chamar\n\nCada caso tem seus detalhes: fale com seu contador. Você já caiu na malha fina? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal\n\n#impostos #impostoderenda #malhafina #restituicao #receitafederal #mataoleao"
+}
