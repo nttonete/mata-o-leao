@@ -26,7 +26,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Imposto mínimo para renda acima de R$ 600 mil/ano
 - [x] Dividendos: o que mudou na tributação — 14/11 (retenção de 10% acima de R$ 50 mil/mês)
 - [x] Carnê-leão: autônomo que recebe de pessoa física — 09/11
-- [ ] Aluguel recebido: como declarar
+- [x] Aluguel recebido: como declarar — 19/11 (juros do financiamento não abatem, SC Cosit 212/2026)
 - [x] Venda de imóvel: quando não paga ganho de capital — 13/11
 - [x] Malha fina: erros mais comuns — 18/11 (3 motivos + como conferir no e-CAC)
 - [x] Despesas que abatem (saúde x educação) — 11/11
