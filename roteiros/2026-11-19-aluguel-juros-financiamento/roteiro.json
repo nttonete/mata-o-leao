@@ -1,0 +1,181 @@
+{
+  "titulo": "Aluguel: juros do financiamento não abatem no IR",
+  "data": "2026-11-19",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://rotadajurisprudencia.com.br/2026/11/receita-federal-veda-deducao-de-juros-de-financiamento-imobiliario-do-irpf-sobre-rendimentos-de-alugueis/",
+    "https://www.nra.adv.br/juros-do-financiamento-aluguel/",
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10862"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (SC Cosit 212/2026)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "IMÓVEL FINANCIADO?",
+      "destaque": "JUROS NÃO",
+      "linha2": "(abatem do aluguel no IR)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Aluga um imóvel financiado? A Receita deixou claro: os juros do financiamento não podem ser descontados do aluguel no imposto de renda.",
+      "cartela": [
+        {
+          "t": "Imóvel financiado e alugado?",
+          "peso": "black",
+          "tam": 72,
+          "gap": 30
+        },
+        {
+          "caixa": "juros não abatem",
+          "cor": "vermelho",
+          "tam": 84
+        },
+        {
+          "t": "do aluguel no imposto de renda",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Foi numa resposta oficial deste mês, a Solução de Consulta Cosit 212. Vale pro carnê-leão e pra declaração anual.",
+      "cartela": [
+        {
+          "t": "Resposta oficial da Receita",
+          "peso": "black",
+          "tam": 70,
+          "gap": 30
+        },
+        {
+          "caixa": "Cosit 212",
+          "cor": "dourado",
+          "tam": 100
+        },
+        {
+          "t": "vale no carnê-leão e na declaração",
+          "tam": 48,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "O que dá pra descontar é uma lista fechada na lei: IPTU e taxas do imóvel, condomínio e a taxa da imobiliária.",
+      "cartela": [
+        {
+          "t": "O que pode descontar",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "IPTU • condomínio",
+          "cor": "verde",
+          "tam": 80
+        },
+        {
+          "t": "e a taxa da imobiliária",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Mas só se quem pagou foi você, o dono. Se o inquilino paga o IPTU ou o condomínio, não entra.",
+      "cartela": [
+        {
+          "t": "Só se o dono pagou",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "inquilino pagou?",
+          "cor": "vermelho",
+          "tam": 84
+        },
+        {
+          "t": "aí não desconta",
+          "tam": 56,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E os juros? Com comprovante, eles podem entrar no custo do imóvel na declaração. Isso reduz o imposto se um dia você vender com lucro.",
+      "cartela": [
+        {
+          "t": "E os juros?",
+          "peso": "black",
+          "tam": 96,
+          "gap": 30
+        },
+        {
+          "caixa": "somam no custo",
+          "cor": "dourado",
+          "tam": 88
+        },
+        {
+          "t": "menos imposto se vender com lucro",
+          "tam": 48,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E lembra: aluguel recebido de pessoa física vai no carnê-leão todo mês. Se quem paga é empresa, ela mesma desconta o imposto na fonte.",
+      "cartela": [
+        {
+          "t": "Inquilino pessoa física",
+          "peso": "black",
+          "tam": 76,
+          "gap": 30
+        },
+        {
+          "caixa": "carnê-leão mensal",
+          "cor": "dourado",
+          "tam": 80
+        },
+        {
+          "t": "empresa? ela retém na fonte",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Cada caso tem seus detalhes, então fala com seu contador. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Aluguel: juros do financiamento não abatem",
+  "legenda": "Aluga um imóvel que ainda está financiando? Os juros não abatem do aluguel no IR 🦁\n\n📄 É o que diz a Receita na Solução de Consulta Cosit 212/2026 (vale pro carnê-leão e pra declaração anual)\n✅ Pode descontar: IPTU e taxas do imóvel, condomínio e taxa da imobiliária, se quem pagou foi o dono\n🏠 Os juros pagos, com comprovante, podem entrar no custo do imóvel: isso reduz o imposto numa venda com lucro\n🧾 Inquilino pessoa física: carnê-leão todo mês. Empresa: ela retém o imposto na fonte\n\nCada caso tem seus detalhes: fale com seu contador. Você aluga algum imóvel? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal\n\n#impostos #impostoderenda #aluguel #carneleao #receitafederal #imoveis #mataoleao"
+}
