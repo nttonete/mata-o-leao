@@ -1,0 +1,39 @@
+{
+  "titulo": "Filho com deficiência maior de 21 anos pode ser dependente no IR",
+  "data": "2026-11-20",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://legis.senado.leg.br/norma/34008185",
+    "https://noticias.stf.jus.br/?p=93977",
+    "https://www.oab.org.br/noticia/58873/oab-atua-e-stf-julga-que-pessoa-com-deficiencia-pode-ser-dependente-no-ir-sem-ter-em-conta-a-capacidade-de-trabalho",
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10933",
+    "https://www.portaltributario.com.br/irpf/quem-pode-ser-dependente-de-acordo-com-a-legislacao.htm",
+    "https://www.band.com.br/economia/ir-2026-nao-caia-na-malha-fina-pela-renda-omitida-de-dependentes",
+    "https://diariodonordeste.verdesmares.com.br/negocios/ir-2026-dependentes-podem-deduzir-mais-de-r-2-mil-na-declaracao-1.3752839"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Lei 9.250/95 e STF (ADI 5583)",
+  "abertura": {
+    "leao": true,
+    "gancho": {"linha1": "FILHO COM DEFICIÊNCIA?", "destaque": "DEPOIS DOS 21", "linha2": "(ainda pode ser dependente)"}
+  },
+  "segmentos": [
+    {"fala": "Seu filho tem deficiência e já passou dos 21 anos? Ele ainda pode ser seu dependente no imposto de renda.",
+     "cartela": [{"t": "Filho com deficiência", "peso": "black", "tam": 76, "gap": 30}, {"caixa": "mais de 21 anos", "cor": "dourado", "tam": 84}, {"t": "ainda pode ser dependente", "tam": 52, "cor": "cinza", "gap": 0}]},
+    {"fala": "A regra geral: filho ou enteado é dependente até 21 anos, ou até 24 se estiver na faculdade ou no ensino técnico.",
+     "cartela": [{"t": "Regra geral", "peso": "black", "tam": 96, "gap": 30}, {"caixa": "até 21 anos", "cor": "branco", "tam": 88}, {"t": "ou até 24 na faculdade ou ensino técnico", "tam": 46, "cor": "cinza", "gap": 0}]},
+    {"fala": "Mas, se ele não tem condição física ou mental de trabalhar, pode ser dependente em qualquer idade.",
+     "cartela": [{"t": "Sem condição de trabalhar?", "peso": "black", "tam": 72, "gap": 30}, {"caixa": "qualquer idade", "cor": "verde", "tam": 88}, {"t": "física ou mental", "tam": 56, "cor": "cinza", "gap": 0}]},
+    {"fala": "E se ele trabalha? Em 2021, o Supremo decidiu que a pessoa com deficiência que trabalha também pode continuar como dependente.",
+     "cartela": [{"t": "E se ele trabalha?", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "STF: pode sim", "cor": "verde", "tam": 88}, {"t": "decisão de 2021 (ADI 5583)", "tam": 50, "cor": "cinza", "gap": 0}]},
+    {"fala": "A condição é que o salário dele não passe do valor das deduções permitidas por lei. Essa conta, o contador faz.",
+     "cartela": [{"t": "A condição", "peso": "black", "tam": 96, "gap": 30}, {"caixa": "salário até o limite", "cor": "dourado", "tam": 76}, {"t": "das deduções da lei", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Cada dependente abate mais de dois mil reais por ano. Mas atenção: a renda dele entra junto na sua declaração.",
+     "cartela": [{"t": "Abate mais de", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "R$ 2 mil por ano", "cor": "verde", "tam": 84}, {"t": "mas a renda dele entra junto", "tam": 50, "cor": "vermelho", "gap": 0}]},
+    {"fala": "Cada família tem seu caso, então fala com seu contador. E segue o Mata o Leão!",
+     "cartela": [{"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "titulo_tiktok": "Filho com deficiência após os 21 no IR",
+  "legenda": "Filho com deficiência passou dos 21 anos? Ele ainda pode ser seu dependente no IR 🦁\n\n👨‍👩‍👦 Regra geral: filho ou enteado até 21 anos (até 24 se estiver na faculdade ou ensino técnico)\n♿ Sem condição física ou mental de trabalhar: dependente em qualquer idade\n⚖️ Trabalha? O STF decidiu em 2021 (ADI 5583) que pode continuar dependente se o salário não passar das deduções permitidas por lei\n🧾 Cada dependente abate mais de R$ 2 mil por ano, mas a renda dele entra na sua declaração\n\nCada família tem seu caso: fale com seu contador. Você declara algum dependente? Conta aqui 👇\n\nConteúdo educativo • Fonte: Lei 9.250/95 e STF\n\n#impostos #impostoderenda #dependentes #pcd #direitospcd #receitafederal #mataoleao"
+}
