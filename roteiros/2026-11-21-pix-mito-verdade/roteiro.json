@@ -1,0 +1,38 @@
+{
+  "titulo": "Pix e Receita: mito x verdade",
+  "data": "2026-11-21",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/janeiro/receita-federal-orienta-a-populacao-sobre-fake-news-envolvendo-pix-e-tributacao",
+    "https://agenciagov.ebc.com.br/noticias/202601/receita-federal-orienta-a-populacao-sobre-fake-news-envolvendo-pix-e-tributacao",
+    "https://agenciabrasil.ebc.com.br/economia/noticia/2025-01/receita-esclarece-que-nao-cobrara-imposto-por-pix",
+    "https://em.com.br/economia/2025/09/7244862-norma-voltada-a-fintechs-nao-tributa-o-pix-como-diz-post.html",
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10922",
+    "https://www.contabeis.com.br/noticias/74629/pix-precisa-ser-declarado-no-imposto-de-renda-2026/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal",
+  "abertura": {
+    "leao": true,
+    "gancho": {"linha1": "PIX VAI SER TAXADO?", "destaque": "MITO X VERDADE", "linha2": "(o que a Receita diz)"}
+  },
+  "segmentos": [
+    {"fala": "O Pix vai ser taxado? Essa mensagem volta todo ano. Bora separar o mito da verdade.",
+     "cartela": [{"t": "Pix vai ser taxado?", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "mito x verdade", "cor": "dourado", "tam": 88}]},
+    {"fala": "Mito: imposto sobre o Pix. Isso não existe. A Receita já negou várias vezes e diz que a Constituição não permite tributar movimentação financeira.",
+     "cartela": [{"t": "Imposto sobre o Pix", "peso": "black", "tam": 80, "gap": 30}, {"caixa": "MITO", "cor": "vermelho", "tam": 110}, {"t": "não existe, diz a Receita", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Verdade: bancos e fintechs mandam informações pra Receita. Mas são só valores totais do período, sem dizer de quem veio nem pra quem foi.",
+     "cartela": [{"t": "Bancos informam a Receita", "peso": "black", "tam": 70, "gap": 30}, {"caixa": "VERDADE", "cor": "verde", "tam": 100}, {"t": "só totais, sem origem nem destino", "tam": 48, "cor": "cinza", "gap": 0}]},
+    {"fala": "Em 2025, as fintechs passaram a seguir a mesma regra que os bancos já seguiam havia anos. Não é imposto novo.",
+     "cartela": [{"t": "Fintechs em 2025", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "mesma regra dos bancos", "cor": "branco", "tam": 72}, {"t": "não é imposto novo", "tam": 56, "cor": "cinza", "gap": 0}]},
+    {"fala": "O que paga imposto é a renda: salário, aluguel, venda, serviço. Recebeu por Pix, em dinheiro ou transferência, a regra é a mesma.",
+     "cartela": [{"t": "O que paga imposto", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "é a renda", "cor": "dourado", "tam": 96}, {"t": "não o jeito de receber", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "E cuidado: golpista usa essa história pra mandar mensagem falsa cobrando taxa do Pix. Não pague e não clique em link.",
+     "cartela": [{"t": "Cuidado com golpe", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "\"taxa do Pix\" é falsa", "cor": "vermelho", "tam": 76}, {"t": "não pague, não clique", "tam": 56, "cor": "cinza", "gap": 0}]},
+    {"fala": "Dúvida na sua declaração? Fala com seu contador. E segue o Mata o Leão!",
+     "cartela": [{"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "titulo_tiktok": "Pix vai ser taxado? Mito x verdade",
+  "legenda": "Pix vai ser taxado? Não! Veja o que é mito e o que é verdade 🦁\n\n❌ Mito: imposto sobre o Pix. Não existe, e a Receita já negou várias vezes\n✅ Verdade: bancos e fintechs informam à Receita só valores totais, sem dizer de quem veio nem pra quem foi\n💰 O que paga imposto é a renda (salário, aluguel, venda, serviço), não importa se chegou por Pix, dinheiro ou transferência\n🚨 Mensagem cobrando \"taxa do Pix\" é golpe: não pague e não clique em link\n\nVocê já recebeu essa mensagem? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal\n\n#impostos #pix #receitafederal #impostoderenda #golpe #mataoleao"
+}
