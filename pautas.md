@@ -39,6 +39,6 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 
 ## Mitos e dúvidas
 - [x] Lote residual do IR: saiu da malha fina, restituição cai hoje (notícia do dia) — 30/10
-- [ ] PIX e Receita: mito x verdade
+- [x] PIX e Receita: mito x verdade — 21/11
 - [ ] Criptomoedas: precisa declarar?
 - [ ] Recebi herança: paga imposto?
