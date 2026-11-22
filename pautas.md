@@ -13,7 +13,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 ## Reforma tributária
 - [x] CBS e IBS em 1 minuto: quais impostos somem — 28/10
 - [x] Split payment: o imposto separado na hora do pagamento — 29/10
-- [ ] O que muda na nota fiscal em 2027
+- [x] O que muda na nota fiscal em 2027 — 22/11 (novas datas do Ato Conjunto 7/2026 para o Simples)
 - [x] MEI na reforma tributária: o que muda e o que não muda — 03/11
 - [x] Cesta básica com alíquota zero: o que entra — 04/11
 - [x] Cashback do imposto para famílias de baixa renda — 12/11
