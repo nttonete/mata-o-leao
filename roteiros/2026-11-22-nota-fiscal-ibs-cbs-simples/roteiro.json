@@ -1,0 +1,37 @@
+{
+  "titulo": "Nota fiscal com IBS e CBS: novas datas para o Simples (Ato Conjunto 7/2026)",
+  "data": "2026-11-22",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://fenacon.org.br/reforma-tributaria/ato-conjunto-rfb-cgibs-no-7-2026-atualiza-o-cronograma-de-obrigatoriedade-de-emissao-da-nfs-e-para-ibs-e-cbs/",
+    "https://www.contabeis.com.br/noticias/80858/ibs-e-cbs-receita-e-cgibs-alteram-prazos-dos-documentos-fiscais/",
+    "https://www.pwc.com.br/pt/thinking-about-taxes/tax-intelligence/2026/tax-intelligence-express-ed55-Ato-Conjunto-RFB-CGIBS-n-7-2026.pdf",
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=11387",
+    "https://www.curitiba.pr.gov.br/noticias/reforma-tributaria-cgibs-e-receita-federal-prorrogam-destaque-obrigatorio-do-ibs-e-cbs-nas-notas-fiscais-de-servicos/84339"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Ato Conjunto RFB/CGIBS nº 7/2026",
+  "abertura": {
+    "leao": true,
+    "gancho": {"linha1": "É DO SIMPLES?", "destaque": "A NOTA MUDA", "linha2": "(novas datas)"}
+  },
+  "segmentos": [
+    {"fala": "Sua empresa é do Simples? Em 2027 a sua nota fiscal muda. E as datas acabaram de ser alteradas.",
+     "cartela": [{"t": "Empresa do Simples?", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "a nota muda em 2027", "cor": "dourado", "tam": 80}]},
+    {"fala": "A Receita e o Comitê Gestor do IBS publicaram, no dia 13 de novembro, um ato com o novo calendário dos campos de IBS e CBS na nota.",
+     "cartela": [{"t": "Ato Conjunto nº 7", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "publicado em 13/11", "cor": "branco", "tam": 76}, {"t": "novas datas do IBS e da CBS na nota", "tam": 46, "cor": "cinza", "gap": 0}]},
+    {"fala": "Pra quem é do Simples, a nota de serviço com IBS e CBS passa a valer em primeiro de janeiro de 2027.",
+     "cartela": [{"t": "Nota de serviço", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "1º de janeiro de 2027", "cor": "verde", "tam": 76}, {"t": "NFS-e, para o Simples", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Já a nota de venda de mercadoria, aquela da loja e do comércio, ficou pra primeiro de março de 2027.",
+     "cartela": [{"t": "Venda de mercadoria", "peso": "black", "tam": 80, "gap": 30}, {"caixa": "1º de março de 2027", "cor": "dourado", "tam": 78}, {"t": "NF-e e NFC-e, para o Simples", "tam": 50, "cor": "cinza", "gap": 0}]},
+    {"fala": "E quem cobra aluguel de imóvel ou taxa de condomínio também entra na nota de serviço com IBS e CBS a partir de janeiro.",
+     "cartela": [{"t": "Aluguel e condomínio", "peso": "black", "tam": 78, "gap": 30}, {"caixa": "janeiro de 2027", "cor": "verde", "tam": 84}, {"t": "também na nota de serviço", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "O que fazer agora? Confira se o seu sistema de nota já tem os campos novos e combine a mudança com o seu contador.",
+     "cartela": [{"t": "O que fazer agora", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "confira seu emissor", "cor": "vermelho", "tam": 80}, {"t": "e fale com seu contador", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Manda esse vídeo pra quem tem empresa. E segue o Mata o Leão!",
+     "cartela": [{"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "titulo_tiktok": "Simples: nota fiscal com IBS e CBS tem novas datas",
+  "legenda": "Sua empresa é do Simples? A nota fiscal muda em 2027, e as datas acabaram de mudar 🦁\n\n📄 Nota de serviço (NFS-e) com IBS e CBS: a partir de 1º de janeiro de 2027\n🛒 Nota de venda de mercadoria (NF-e e NFC-e): a partir de 1º de março de 2027\n🏠 Aluguel de imóvel e taxa de condomínio também entram na nota de serviço em janeiro\n✅ Confira se o seu sistema de nota já tem os campos novos e alinhe com o seu contador\n\nSeu emissor já está pronto? Conta aqui 👇\n\nConteúdo educativo • Fonte: Ato Conjunto RFB/CGIBS nº 7/2026\n\n#impostos #reformatributaria #simplesnacional #notafiscal #ibs #cbs #mataoleao"
+}
