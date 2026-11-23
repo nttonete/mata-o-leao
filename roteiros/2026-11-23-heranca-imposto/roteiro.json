@@ -1,0 +1,38 @@
+{
+  "titulo": "Recebi herança: paga imposto?",
+  "data": "2026-11-23",
+  "horario": "19:00",
+  "status": "RASCUNHO – sem narração (Runway com 5 créditos em 23/11). Revisar fontes antes de narrar.",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.infomoney.com.br/minhas-financas/saiba-como-declarar-heranca-espolio-e-imoveis-recebidos-no-imposto-de-renda/",
+    "https://www.itatiaia.com.br/economia/como-declarar-bens-recebidos-por-heranca-ou-doacao-no-imposto-de-renda-2026/",
+    "https://www.contabeis.com.br/noticias/72619/itcmd-tera-aliquotas-progressivas-como-se-preparar/"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (IRPF) e leis estaduais do ITCMD",
+  "abertura": {
+    "leao": true,
+    "gancho": {"linha1": "RECEBEU HERANÇA?", "destaque": "PAGA IMPOSTO?", "linha2": "(2 detalhes)"}
+  },
+  "segmentos": [
+    {"fala": "Recebeu herança? Calma: você não paga Imposto de Renda sobre ela. Mas tem dois detalhes que pegam muita gente.",
+     "cartela": [{"t": "Recebeu herança?", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "não é renda", "cor": "verde", "tam": 84}, {"t": "mas tem 2 detalhes", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Pra Receita, herança não é renda. Ela entra na declaração do ano seguinte, na ficha de rendimentos isentos, em transferências patrimoniais.",
+     "cartela": [{"t": "Na declaração", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "rendimentos isentos", "cor": "dourado", "tam": 76}, {"t": "transferências patrimoniais", "tam": 50, "cor": "cinza", "gap": 0}]},
+    {"fala": "E o bem também vai pra ficha de bens e direitos, no seu nome.",
+     "cartela": [{"t": "E o bem?", "peso": "black", "tam": 92, "gap": 30}, {"caixa": "bens e direitos", "cor": "branco", "tam": 80}, {"t": "no seu nome", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Primeiro detalhe: imposto sobre herança existe, sim. É o ITCMD, cobrado pelo estado, e a alíquota muda de um estado pro outro.",
+     "cartela": [{"t": "Detalhe 1", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "ITCMD", "cor": "vermelho", "tam": 96}, {"t": "imposto estadual, varia por estado", "tam": 48, "cor": "cinza", "gap": 0}]},
+    {"fala": "Segundo detalhe: o valor do bem. Se ele passa pra você pelo valor que estava na declaração de quem faleceu, não tem Imposto de Renda.",
+     "cartela": [{"t": "Detalhe 2", "peso": "black", "tam": 88, "gap": 30}, {"caixa": "valor da declaração", "cor": "verde", "tam": 76}, {"t": "sem Imposto de Renda", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Mas se passa pelo valor de mercado, mais alto, a diferença vira ganho de capital: em regra, quinze por cento, pagos pelo espólio.",
+     "cartela": [{"t": "Valor de mercado?", "peso": "black", "tam": 84, "gap": 30}, {"caixa": "15% sobre a diferença", "cor": "dourado", "tam": 72}, {"t": "pago pelo espólio", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Qual caminho é melhor depende do caso. Converse com o seu contador antes do inventário.",
+     "cartela": [{"t": "Cada caso é um caso", "peso": "black", "tam": 78, "gap": 30}, {"caixa": "fale com seu contador", "cor": "vermelho", "tam": 74}, {"t": "antes do inventário", "tam": 54, "cor": "cinza", "gap": 0}]},
+    {"fala": "Manda pra quem está passando por isso. E segue o Mata o Leão!",
+     "cartela": [{"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10}, {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10}, {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}]}
+  ],
+  "titulo_tiktok": "Recebi herança: paga imposto?",
+  "legenda": "Recebeu herança? Você não paga Imposto de Renda sobre ela, mas tem 2 detalhes 🦁\n\n📄 Herança vai na declaração como rendimento isento (transferências patrimoniais) e o bem entra em Bens e Direitos\n🏛️ O imposto da herança é o ITCMD, do estado, e a alíquota varia\n💰 Bem passado pelo valor da declaração de quem faleceu: sem IR. Pelo valor de mercado: a diferença paga ganho de capital (em regra 15%), pelo espólio\n✅ Qual caminho é melhor depende do caso: fale com seu contador antes do inventário\n\nFicou alguma dúvida? Pergunta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal (IRPF) e leis estaduais do ITCMD\n\n#impostos #heranca #impostoderenda #itcmd #inventario #mataoleao"
+}
