@@ -1,0 +1,204 @@
+{
+  "titulo": "Simples: vende pra empresa ou pra consumidor? (DAS x regime regular de IBS/CBS)",
+  "data": "2026-11-25",
+  "horario": "19:00",
+  "musica": "trilha-1-lofi.mp3",
+  "volume_musica": 0.28,
+  "fontes": [
+    "https://fenacon.org.br/reforma-tributaria/simples-nacional-hibrido-quando-o-credito-de-ibs-e-cbs-vira-fator-de-competitividade/ (Fenacon, 21/10/2026)",
+    "https://www.migalhas.com.br/depeso/463764/simples-nacional-e-ibs-cbs-impactos-para-fornecedor-e-cliente (LC 214/2025, art. 41 §3º e art. 47 §9º)",
+    "https://online.crcsp.org.br/portal/noticias/noticia.asp?c=10530 (CRC-SP)",
+    "Prazos: roteiros/2026-10-31-cancelar-regime-regular-simples (Receita Federal, CGIBS, Res. CGSN 194/2026)"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: LC 214/2025 e Res. CGSN 194/2026",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "EMPRESA DO SIMPLES?",
+      "destaque": "PRA QUEM VOCÊ VENDE?",
+      "linha2": "(isso pesa em 2027)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Sua empresa é do Simples? Em 2027, pra quem você vende pode pesar no imposto. Pra empresa ou pra consumidor?",
+      "cartela": [
+        {
+          "t": "Empresa do Simples?",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "pra quem você vende?",
+          "cor": "dourado",
+          "tam": 72
+        },
+        {
+          "t": "empresa ou consumidor",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Com a reforma, a CBS e o IBS geram crédito: a empresa que compra desconta o imposto que veio na nota.",
+      "cartela": [
+        {
+          "t": "CBS e IBS",
+          "peso": "black",
+          "tam": 92,
+          "gap": 30
+        },
+        {
+          "caixa": "geram crédito",
+          "cor": "verde",
+          "tam": 84
+        },
+        {
+          "t": "pra empresa que compra",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Com tudo no DAS, seu cliente empresa só aproveita de crédito o que você pagou no DAS. E você não toma crédito das compras.",
+      "cartela": [
+        {
+          "t": "Tudo no DAS",
+          "peso": "black",
+          "tam": 88,
+          "gap": 30
+        },
+        {
+          "caixa": "crédito pequeno",
+          "cor": "vermelho",
+          "tam": 80
+        },
+        {
+          "t": "só o que foi pago no DAS",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "No regime regular, você paga CBS e IBS por fora, pelas regras gerais. Mas toma crédito das compras, e seu cliente aproveita o crédito cheio.",
+      "cartela": [
+        {
+          "t": "Regime regular",
+          "peso": "black",
+          "tam": 84,
+          "gap": 30
+        },
+        {
+          "caixa": "crédito cheio",
+          "cor": "verde",
+          "tam": 84
+        },
+        {
+          "t": "CBS e IBS por fora do DAS",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Por isso, quem vende pra empresas pode ficar mais competitivo no regime regular. Mas nem sempre compensa.",
+      "cartela": [
+        {
+          "t": "Vende pra empresa?",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "pode compensar",
+          "cor": "dourado",
+          "tam": 80
+        },
+        {
+          "t": "mas nem sempre",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Já quem vende pra consumidor final, como salão ou restaurante, quase não sente: pessoa física não usa crédito.",
+      "cartela": [
+        {
+          "t": "Vende pro consumidor?",
+          "peso": "black",
+          "tam": 76,
+          "gap": 30
+        },
+        {
+          "caixa": "pouca diferença",
+          "cor": "branco",
+          "tam": 80
+        },
+        {
+          "t": "pessoa física não usa crédito",
+          "tam": 48,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Já fez a opção e ficou na dúvida? Dá pra cancelar até 20 de dezembro. Faz as contas com o seu contador.",
+      "cartela": [
+        {
+          "t": "Optou e ficou na dúvida?",
+          "peso": "black",
+          "tam": 70,
+          "gap": 30
+        },
+        {
+          "caixa": "cancela até 20/12",
+          "cor": "vermelho",
+          "tam": 78
+        },
+        {
+          "t": "fale com seu contador",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Manda pra quem tem empresa no Simples. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Simples: vende pra empresa ou pra consumidor?",
+  "legenda": "Sua empresa é do Simples? Em 2027, pra quem você vende pode pesar no imposto 🦁\n\n🧾 Com a reforma, CBS e IBS geram crédito pra empresa que compra\n📦 Tudo no DAS: seu cliente empresa só aproveita de crédito o que você pagou no DAS, e você não toma crédito das compras\n🏢 Regime regular (CBS e IBS por fora): você toma crédito das compras e seu cliente aproveita o crédito cheio. Pode compensar pra quem vende pra empresa, mas nem sempre\n🛍️ Vende pra consumidor final? Quase não muda: pessoa física não usa crédito\n📅 Já optou pelo regime regular e ficou na dúvida? Dá pra cancelar até 20/12\n\nVocê vende mais pra empresa ou pra consumidor? Conta aqui 👇\n\nConteúdo educativo • Fonte: LC 214/2025 e Res. CGSN 194/2026\n\n#impostos #simplesnacional #reformatributaria #ibs #cbs #pequenasempresas #mataoleao"
+}
