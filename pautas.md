@@ -18,7 +18,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [x] Cesta básica com alíquota zero: o que entra — 04/11
 - [x] Cashback do imposto para famílias de baixa renda — 12/11
 - [x] Imposto Seletivo ("imposto do pecado"): sobre o quê — 06/11 (alíquotas 2027 da MP 1.399/2026)
-- [ ] Simples x regime regular de IBS/CBS: quem vende para empresa x quem vende para consumidor
+- [x] Simples x regime regular de IBS/CBS: quem vende para empresa x quem vende para consumidor — 25/11
 
 ## Imposto de Renda
 - [x] Isenção até R$ 5 mil: quem ganha e como aparece no contracheque — 27/10
