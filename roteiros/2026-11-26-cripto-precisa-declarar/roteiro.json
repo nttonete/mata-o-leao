@@ -1,0 +1,82 @@
+{
+  "titulo": "Criptomoedas: precisa declarar no Imposto de Renda?",
+  "data": "2026-11-26",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Lei/L14754.htm (Lei 14.754/2023, arts. 2º e 3º: ativos virtuais no exterior, 15% na declaração anual)",
+    "https://almalaw.com.br/publicacoes/receita-federal-publica-perguntas-e-respostas-do-irpf-2026/ (Perguntas e Respostas IRPF 2026: nacional isento até R$ 35 mil/mês; exterior 15% sem isenção)",
+    "https://blueconsult.com.br/imposto-criptomoedas-brasil-2026/ (R$ 5 mil por tipo, custo de aquisição, grupo 08; R$ 35 mil = total vendido; 15% até R$ 5 mi; DARF até último dia útil do mês seguinte; MP 1.303/2025 caducou)",
+    "https://impostoderendarestituicao.com.br/como-declarar-bitcoins-e-outras-criptomoedas/ (R$ 5 mil, custo de aquisição, R$ 35 mil/mês, DARF 4600)"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal e Lei 14.754/2023",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "TEM CRIPTO?",
+      "destaque": "PRECISA DECLARAR?",
+      "linha2": "(depende do valor)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Tem bitcoin ou outra criptomoeda? Presta atenção: dependendo do valor, você precisa declarar no Imposto de Renda.",
+      "cartela": [
+        {"t": "Tem cripto?", "peso": "black", "tam": 96, "gap": 30},
+        {"caixa": "precisa declarar?", "cor": "dourado", "tam": 76},
+        {"t": "depende do valor", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Se o que você pagou num tipo de cripto chega a cinco mil reais, ela entra em Bens e Direitos. Pelo valor de compra, não pela cotação.",
+      "cartela": [
+        {"t": "Pagou R$ 5 mil ou mais?", "peso": "black", "tam": 72, "gap": 30},
+        {"caixa": "Bens e Direitos", "cor": "verde", "tam": 80},
+        {"t": "pelo valor de compra", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Vendeu numa corretora brasileira? Se o total vendido no mês fica em até trinta e cinco mil reais, o lucro é isento.",
+      "cartela": [
+        {"t": "Corretora brasileira", "peso": "black", "tam": 76, "gap": 30},
+        {"caixa": "até R$ 35 mil/mês", "cor": "verde", "tam": 76},
+        {"t": "em vendas: lucro isento", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Vendeu mais que isso? Paga imposto sobre o lucro, a partir de quinze por cento, num DARF até o último dia útil do mês seguinte.",
+      "cartela": [
+        {"t": "Vendeu mais?", "peso": "black", "tam": 92, "gap": 30},
+        {"caixa": "a partir de 15%", "cor": "vermelho", "tam": 78},
+        {"t": "sobre o lucro, em DARF", "tam": 52, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Agora, se a cripto está numa corretora estrangeira, a regra muda: quinze por cento sobre o ganho, na declaração anual, e sem a isenção dos trinta e cinco mil.",
+      "cartela": [
+        {"t": "Corretora estrangeira", "peso": "black", "tam": 74, "gap": 30},
+        {"caixa": "15% no ajuste anual", "cor": "vermelho", "tam": 72},
+        {"t": "sem isenção de R$ 35 mil", "tam": 50, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Carteira própria, troca entre criptos, prejuízo... aí tem detalhe. Na dúvida, fala com o seu contador.",
+      "cartela": [
+        {"t": "Carteira própria? Troca?", "peso": "black", "tam": 70, "gap": 30},
+        {"caixa": "tem detalhe", "cor": "branco", "tam": 84},
+        {"t": "fale com seu contador", "tam": 54, "cor": "cinza", "gap": 0}
+      ]
+    },
+    {
+      "fala": "Manda pra quem tem cripto. E segue o Mata o Leão!",
+      "cartela": [
+        {"t": "Siga o", "tam": 60, "cor": "cinza", "gap": 10},
+        {"t": "MATA O LEÃO", "peso": "black", "tam": 120, "cor": "dourado", "gap": 10},
+        {"t": "imposto sem complicação", "peso": "semi", "tam": 52, "gap": 0}
+      ]
+    }
+  ],
+  "titulo_tiktok": "Cripto: precisa declarar no Imposto de Renda?",
+  "legenda": "Tem bitcoin ou outra cripto? Dependendo do valor, precisa declarar no IR 🦁\n\n💰 Pagou R$ 5 mil ou mais num tipo de cripto? Vai em Bens e Direitos, pelo valor de compra (não pela cotação)\n🇧🇷 Corretora brasileira: vendeu até R$ 35 mil no mês, o lucro é isento. Passou disso, imposto a partir de 15% sobre o lucro, em DARF até o último dia útil do mês seguinte\n🌎 Corretora estrangeira: 15% sobre o ganho, na declaração anual, sem a isenção dos R$ 35 mil (Lei 14.754/2023)\n🔐 Carteira própria, troca entre criptos e prejuízo têm detalhes: na dúvida, fale com seu contador\n\nVocê guarda cripto em corretora brasileira ou estrangeira? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal e Lei 14.754/2023\n\n#impostos #impostoderenda #criptomoedas #bitcoin #receitafederal #mataoleao"
+}
