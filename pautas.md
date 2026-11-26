@@ -40,5 +40,5 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 ## Mitos e dúvidas
 - [x] Lote residual do IR: saiu da malha fina, restituição cai hoje (notícia do dia) — 30/10
 - [x] PIX e Receita: mito x verdade — 21/11
-- [ ] Criptomoedas: precisa declarar?
+- [x] Criptomoedas: precisa declarar? — 26/11 (R$ 5 mil, isenção R$ 35 mil/mês nacional, exterior 15% Lei 14.754)
 - [x] Recebi herança: paga imposto? — 24/11 (ITCMD + ganho de capital pelo espólio)
