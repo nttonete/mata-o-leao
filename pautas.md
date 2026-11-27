@@ -34,7 +34,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 ## Direitos da pessoa com deficiência
 - [x] Escola de filho autista abatida inteira no IR como despesa médica (Tema 324 TNU) — 26/10
 - [x] Terapias do autista (fono, TO, psicólogo) como despesa médica no IR — 27/10
-- [ ] Isenção de IPI/IOF/ICMS/IPVA na compra de carro por pessoa com deficiência
+- [x] Isenção de IPI/IOF/ICMS/IPVA na compra de carro por pessoa com deficiência — 27/11 (fim do IPI em 31/12 + IBS/CBS zero em 2027; IOF e ICMS não abordados)
 - [x] Dependente com deficiência maior de 21 anos no IR — 20/11 (ADI 5583 do STF)
 
 ## Mitos e dúvidas
