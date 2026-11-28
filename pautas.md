@@ -8,6 +8,7 @@ lei ou resolução. Temas com data ficam no topo e têm prioridade na semana cer
 - [ ] Senado define a alíquota da CBS de 2027 (prazo até 15/12) — acompanhar e postar quando sair (10/11: vídeo sobre o cálculo de 11,3% do TCU; falta o número final)
 - [x] 13º salário: quanto de IR e INSS sai — 01/11
 - [x] Doação ao Fundo da Criança/Idoso no ano para abater no IR — até 31/12 — 02/11
+- [x] Transação de pequeno valor da Receita (Edital 10/2026, adesão até 30/12) — 28/11
 - [ ] Simples: nova chance de optar pelo regime regular de IBS/CBS (março, valendo a partir de julho) — fevereiro/março
 
 ## Reforma tributária
