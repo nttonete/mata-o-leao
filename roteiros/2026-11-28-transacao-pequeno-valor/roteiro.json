@@ -1,0 +1,182 @@
+{
+  "titulo": "Transação de pequeno valor da Receita: desconto de até 50% em débito em discussão, adesão até 30/12",
+  "data": "2026-11-28",
+  "horario": "19:00",
+  "musica": "trilha-2-pop.mp3",
+  "volume_musica": 0.5,
+  "fontes": [
+    "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/transacao-tributaria/pequeno-valor (Edital RFB 10/2026: PF, MEI, ME e EPP; até 60 salários mínimos, R$ 97.260, por processo; 50%/12, 40%/24, 35%/36, 30%/55 sobre o total; parcela mínima R$ 200; Simples fora, exceto multa por atraso de obrigação acessória; desistência de impugnações e recursos; prazo 30/12/2026 20h59)",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-prorroga-prazo-para-adesao-a-editais-de-transacao-tributaria-ate-30-de-dezembro (prorrogação dos Editais 9 e 10 até 30/12/2026; débitos em contencioso administrativo fiscal)",
+    "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-prorroga-ate-30-de-dezembro-o-prazo-para-adesao-a-editais-de-transacao-tributaria (idem, 03/11/2026)",
+    "https://fecomercio.com.br/tributario/transacoes-tributarias-contribuintes-terao-ate-o-dia-30-de-dezembro-para-parcelar-debitos-federais/ (detalhes do Edital 10; dívida ativa da União não entra, negociar com a PGFN)"
+  ],
+  "rodape": "Conteúdo educativo • Fonte: Receita Federal (Edital de Transação RFB 10/2026)",
+  "abertura": {
+    "leao": true,
+    "gancho": {
+      "linha1": "DÍVIDA COM A RECEITA?",
+      "destaque": "ATÉ 50% DE DESCONTO",
+      "linha2": "(prazo: 30 de dezembro)"
+    }
+  },
+  "segmentos": [
+    {
+      "fala": "Tem dívida com a Receita em discussão num processo? Até trinta de dezembro, dá pra negociar com até cinquenta por cento de desconto.",
+      "cartela": [
+        {
+          "t": "Dívida em discussão?",
+          "peso": "black",
+          "tam": 80,
+          "gap": 30
+        },
+        {
+          "caixa": "até 50% de desconto",
+          "cor": "verde",
+          "tam": 74
+        },
+        {
+          "t": "adesão até 30 de dezembro",
+          "tam": 52,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "É a transação de pequeno valor da Receita. Vale pra pessoa física, MEI, microempresa e empresa de pequeno porte.",
+      "cartela": [
+        {
+          "t": "Pequeno valor",
+          "peso": "black",
+          "tam": 96,
+          "gap": 30
+        },
+        {
+          "caixa": "PF, MEI, ME e EPP",
+          "cor": "dourado",
+          "tam": 78
+        },
+        {
+          "t": "Edital da Receita nº 10/2026",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "O débito tem que estar em discussão na Receita, numa impugnação ou recurso, e ter até sessenta salários mínimos por processo. Dívida ativa fica de fora: essa é com a PGFN.",
+      "cartela": [
+        {
+          "t": "Até 60 salários mínimos",
+          "peso": "black",
+          "tam": 70,
+          "gap": 30
+        },
+        {
+          "caixa": "por processo",
+          "cor": "dourado",
+          "tam": 80
+        },
+        {
+          "t": "dívida ativa: só com a PGFN",
+          "tam": 50,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "O desconto vale sobre o total, com juros e multa: cinquenta por cento em até doze parcelas, e trinta por cento em até cinquenta e cinco.",
+      "cartela": [
+        {
+          "t": "Desconto sobre o total",
+          "peso": "black",
+          "tam": 72,
+          "gap": 30
+        },
+        {
+          "caixa": "50% em até 12x",
+          "cor": "verde",
+          "tam": 82
+        },
+        {
+          "t": "30% em até 55x",
+          "tam": 60,
+          "cor": "branco",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Parcela mínima de duzentos reais. Mas atenção: imposto do Simples não entra, só a multa por atraso na entrega de declaração.",
+      "cartela": [
+        {
+          "t": "Parcela mínima: R$ 200",
+          "peso": "black",
+          "tam": 70,
+          "gap": 30
+        },
+        {
+          "caixa": "Simples não entra",
+          "cor": "vermelho",
+          "tam": 78
+        },
+        {
+          "t": "só multa por atraso de declaração",
+          "tam": 46,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "E pra entrar, você desiste do processo. Vale a pena? Depende do caso. Fala com o seu contador.",
+      "cartela": [
+        {
+          "t": "Você desiste do processo",
+          "peso": "black",
+          "tam": 68,
+          "gap": 30
+        },
+        {
+          "caixa": "depende do caso",
+          "cor": "branco",
+          "tam": 80
+        },
+        {
+          "t": "fale com seu contador",
+          "tam": 54,
+          "cor": "cinza",
+          "gap": 0
+        }
+      ]
+    },
+    {
+      "fala": "Manda pra quem tem pendência com a Receita. E segue o Mata o Leão!",
+      "cartela": [
+        {
+          "t": "Siga o",
+          "tam": 60,
+          "cor": "cinza",
+          "gap": 10
+        },
+        {
+          "t": "MATA O LEÃO",
+          "peso": "black",
+          "tam": 120,
+          "cor": "dourado",
+          "gap": 10
+        },
+        {
+          "t": "imposto sem complicação",
+          "peso": "semi",
+          "tam": 52,
+          "gap": 0
+        }
+      ]
+    }
+  ],
+  "titulo_tiktok": "Dívida com a Receita: até 50% de desconto até 30/12",
+  "legenda": "Tem dívida com a Receita sendo discutida num processo? Dá pra negociar com até 50% de desconto até 30/12 🦁\n\n📄 Transação de pequeno valor (Edital RFB 10/2026): pessoa física, MEI, ME e EPP\n⚖️ Débito em discussão na Receita (impugnação ou recurso), até 60 salários mínimos por processo. Dívida ativa fica de fora: essa é com a PGFN\n💰 Desconto sobre o total, com juros e multa: 50% em até 12x, 40% em 24x, 35% em 36x, 30% em 55x. Parcela mínima de R$ 200\n🚫 Tributos do Simples Nacional não entram (só multa por atraso de obrigação acessória)\n⚠️ Pra aderir, você desiste do processo. Vale a pena? Depende do caso: fale com seu contador\n\nVocê tem algum processo aberto na Receita? Conta aqui 👇\n\nConteúdo educativo • Fonte: Receita Federal (Edital de Transação RFB 10/2026)\n\n#impostos #receitafederal #mei #dividas #transacaotributaria #pequenaempresa #mataoleao"
+}
